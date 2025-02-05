@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BC Driver Test Quiz</title>
+    <script src="./html2canvas.min.js"></script>
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        padding: 20px;
+        max-width: 800px;
+        margin: 0 auto;
+        background-color: #f0f0f0;
+      }
+
+      #quiz-container {
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      }
+
+      .question-text {
+        font-size: 1.2em;
+        margin-bottom: 20px;
+        color: #333;
+      }
+
+      .question-image {
+        max-width: 100%;
+        height: auto;
+        margin: 20px 0;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .choices-container {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin-bottom: 20px;
+      }
+
+      .choice-btn {
+        padding: 10px 15px;
+        border: 2px solid #ddd;
+        background: white;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 1em;
+        transition: all 0.3s ease;
+        text-align: left;
+      }
+
+      .choice-btn:hover {
+        background: #f5f5f5;
+      }
+
+      .choice-btn.correct {
+        background-color: #4CAF50;
+        color: white;
+        border-color: #45a049;
+      }
+
+      .choice-btn.incorrect {
+        background-color: #f44336;
+        color: white;
+        border-color: #da190b;
+      }
+
+      .navigation {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+      }
+
+      .nav-btn {
+        padding: 10px 20px;
+        background: #2196F3;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 1em;
+      }
+
+      .nav-btn:disabled {
+        background: #ccc;
+        cursor: not-allowed;
+      }
+
+      .question-number {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #666;
+      }
+
+      .screenshot-btn {
+        display: block;
+        margin: 20px auto;
+        padding: 10px 20px;
+        background: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      .info-text {
+        text-align: center;
+        margin-top: 10px;
+        color: #666;
+        font-size: 0.9em;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="quiz-container">
+      <div class="question-number">Question <span id="current-number">1</span> of <span id="total-questions">0</span>
+      </div>
+      <div class="question-text" id="question-text"></div>
+      <img id="question-image" class="question-image" style="display: none;" />
+      <div class="choices-container" id="choices-container"></div>
+      <div class="navigation">
+        <button id="prev-btn" class="nav-btn">← Previous</button>
+        <button id="next-btn" class="nav-btn">Next →</button>
+      </div>
+      <button id="screenshot-btn" class="screenshot-btn">Save Screenshot (S)</button>
+      <p class="info-text">Use ← → arrow keys to navigate, S key to save screenshot</p>
+    </div>
+
+    <script>
+      let questions = [];
+      let currentQuestionIndex = 0;
+      let hasAnswered = false;
+
+      // Load questions from JSON file
+      async function loadQuestions() {
+        try {
+          const response = await fetch('questions.json');
+          const data = await response.json();
+          questions = data.questions;
+          document.getElementById('total-questions').textContent = questions.length;
+          showQuestion(currentQuestionIndex);
+        } catch (error) {
+          console.error('Error loading questions:', error);
+        }
+      }
+
+      function showQuestion(index) {
+        const question = questions[index];
+        if (!question) return;
+
+        // Reset state
+        hasAnswered = false;
+        document.getElementById('current-number').textContent = index + 1;
+        document.getElementById('question-text').textContent = question.question;
+
+        // Handle image
+        const imageElement = document.getElementById('question-image');
+        if (question.image_path) {
+          imageElement.src = question.image_path;
+          imageElement.style.display = 'block';
+        } else {
+          imageElement.style.display = 'none';
+        }
+
+        // Create choice buttons
+        const choicesContainer = document.getElementById('choices-container');
+        choicesContainer.innerHTML = '';
+        question.choices.forEach((choice, i) => {
+          const button = document.createElement('button');
+          button.className = 'choice-btn';
+          button.textContent = choice;
+          button.onclick = () => handleAnswer(choice);
+          choicesContainer.appendChild(button);
+        });
+
+        // Update navigation buttons
+        document.getElementById('prev-btn').disabled = index === 0;
+        document.getElementById('next-btn').disabled = index === questions.length - 1;
+      }
+
+      function handleAnswer(selectedAnswer) {
+        if (hasAnswered) return;
+
+        const question = questions[currentQuestionIndex];
+        const buttons = document.querySelectorAll('.choice-btn');
+
+        buttons.forEach(button => {
+          if (button.textContent === selectedAnswer) {
+            button.classList.add(selectedAnswer === question.correct_answer ? 'correct' : 'incorrect');
+          } else if (button.textContent === question.correct_answer) {
+            button.classList.add('correct');
+          }
+        });
+
+        hasAnswered = true;
+      }
+
+      function navigateQuestion(direction) {
+        const newIndex = currentQuestionIndex + direction;
+        if (newIndex >= 0 && newIndex < questions.length) {
+          currentQuestionIndex = newIndex;
+          showQuestion(currentQuestionIndex);
+        }
+      }
+
+      function saveScreenshot() {
+        html2canvas(document.getElementById('quiz-container')).then(canvas => {
+          const link = document.createElement('a');
+          link.download = `question-${currentQuestionIndex + 1}.png`;
+          link.href = canvas.toDataURL('image/png');
+          link.click();
+        });
+      }
+
+      // Event Listeners
+      document.getElementById('prev-btn').onclick = () => navigateQuestion(-1);
+      document.getElementById('next-btn').onclick = () => navigateQuestion(1);
+      document.getElementById('screenshot-btn').onclick = saveScreenshot;
+
+      // Keyboard navigation
+      document.addEventListener('keydown', (e) => {
+        switch (e.key) {
+          case 'ArrowLeft':
+            navigateQuestion(-1);
+            break;
+          case 'ArrowRight':
+            navigateQuestion(1);
+            break;
+          case 's':
+          case 'S':
+            saveScreenshot();
+            break;
+        }
+      });
+
+      // Initialize
+      loadQuestions();
+    </script>
+  </body>
+
+</html>

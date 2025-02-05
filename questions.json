@@ -1,0 +1,4708 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "在路口有黄色信号灯闪烁，这表示？",
+      "choices": [
+        "左转车辆需要停车",
+        "无需减速直接通过",
+        "右转车辆需要停车",
+        "提醒司机通过路口时注意瞭望"
+      ],
+      "correct_answer": "提醒司机通过路口时注意瞭望",
+      "image_path": "images/question_1.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/v7pEAxp5.png"
+    },
+    {
+      "id": 2,
+      "question": "在城市，村镇，城乡结合部等没有限速标志的区域，最高时速应限定在：",
+      "choices": [
+        "40km/h",
+        "60km/h",
+        "30km/h",
+        "50km/h"
+      ],
+      "correct_answer": "50km/h",
+      "image_path": "images/question_2.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/36yRv3yz.png"
+    },
+    {
+      "id": 3,
+      "question": "在双向单车道上，如果听见有紧急车辆鸣笛，依据法规你应该怎样做？",
+      "choices": [
+        "尽可能靠近路右边停车",
+        "打灯给出信号，示意对方先过",
+        "加速离开该路段",
+        "保持车速继续前进"
+      ],
+      "correct_answer": "尽可能靠近路右边停车",
+      "image_path": "images/question_3.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/VgQzX5kX.png"
+    },
+    {
+      "id": 4,
+      "question": "法律规定，禁止司机在拖拽的车厢、船只或房屋内搭载：",
+      "choices": [
+        "武器",
+        "人员",
+        "宠物",
+        "易燃易爆品"
+      ],
+      "correct_answer": "人员",
+      "image_path": "images/question_4.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/oPy8G2kn.png"
+    },
+    {
+      "id": 5,
+      "question": "无法在后视镜和侧镜中看到的区域被称为：",
+      "choices": [
+        "危险区",
+        "安全区",
+        "盲点",
+        "黑暗区"
+      ],
+      "correct_answer": "盲点",
+      "image_path": "images/question_5.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/b1QPl1QK.png"
+    },
+    {
+      "id": 6,
+      "question": "当你持“学习驾驶执照”开车时，在副驾驶座位上应该有一名符合资质的督导者。这句话对吗？",
+      "choices": [
+        "对",
+        "错"
+      ],
+      "correct_answer": "对",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 7,
+      "question": "当你准备在一条双向车道上左转时，你的车子应该处于路面的什么位置？",
+      "choices": [
+        "靠近路的最右侧",
+        "无所谓，只要你提前打出转向灯就行",
+        "靠近路的最左侧",
+        "尽量向左贴近路的中线"
+      ],
+      "correct_answer": "尽量向左贴近路的中线",
+      "image_path": "images/question_7.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ZapoK4pg.png"
+    },
+    {
+      "id": 8,
+      "question": "路口遇见红色信号灯，而此时你打算直行通过路口，你应该：",
+      "choices": [
+        "停车，让行人先过，然后再通过。",
+        "减速，等路口没有车了再通过。",
+        "停车，等路口没有车了再通过。",
+        "停车，直到信号灯变成绿色并且确认安全时再通过。"
+      ],
+      "correct_answer": "停车，直到信号灯变成绿色并且确认安全时再通过。",
+      "image_path": "images/question_8.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/lnk36epr.png"
+    },
+    {
+      "id": 9,
+      "question": "路旁的学校区指示牌上标注“限速30km/h”，这意味着：",
+      "choices": [
+        "每天早8点到9点，及下午3点到6点期间，司机通过该区域时必须遵照指示牌上的要求减速到30km/h。",
+        "遇到危险状况时，司机必须减速通过。",
+        "任何时间段内，司机都必须减速通过该区域。",
+        "在学校有课的日子里，每天早8点到晚5点期间，司机通过该区域时必须遵照指示牌上的要求减速到30km/h。"
+      ],
+      "correct_answer": "在学校有课的日子里，每天早8点到晚5点期间，司机通过该区域时必须遵照指示牌上的要求减速到30km/h。",
+      "image_path": "images/question_9.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/dEQ4BRkM.png"
+    },
+    {
+      "id": 10,
+      "question": "除非需要超车，两辆商业货车在城镇之外的高速公路上行驶时，前后车距应保持在多少米？",
+      "choices": [
+        "100 m",
+        "60 m",
+        "180 m",
+        "120 m"
+      ],
+      "correct_answer": "60 m",
+      "image_path": "images/question_10.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/6npLovQ8.png"
+    },
+    {
+      "id": 11,
+      "question": "路口的信号灯已经切换，而此时依然有行人在路中央穿行，此时谁有路权？",
+      "choices": [
+        "机动车",
+        "需要转弯的机动车",
+        "都有路权，只要没危险，可以各走各的",
+        "行人"
+      ],
+      "correct_answer": "行人",
+      "image_path": "images/question_11.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Eny1w2pL.png"
+    },
+    {
+      "id": 12,
+      "question": "行驶在路上时，如果你的车速比周围的车流慢很多，这是：",
+      "choices": [
+        "被允许的，如果你没有注意到该路段的限速。",
+        "很危险，因为其他司机会因为不耐烦或气愤而试图从你旁边超过。",
+        "很危险，如果你的车速比其他人慢70%的话。",
+        "没什么危险，如果天气状况良好时。"
+      ],
+      "correct_answer": "很危险，因为其他司机会因为不耐烦或气愤而试图从你旁边超过。",
+      "image_path": "images/question_12.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ZMQAvwpK.png"
+    },
+    {
+      "id": 13,
+      "question": "大型货车在行驶时，需要：",
+      "choices": [
+        "更多的空间来转向",
+        "更多的时间来停车",
+        "更宽的车道",
+        "更多的时间和空间用于启动，停车和转向"
+      ],
+      "correct_answer": "更多的时间和空间用于启动，停车和转向",
+      "image_path": "images/question_13.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/v7pEAZp5.png"
+    },
+    {
+      "id": 14,
+      "question": "当你驾车到达路口时，发现绿色信号灯在不停闪烁，此时下列哪句话是错误的？",
+      "choices": [
+        "你必须停车",
+        "你可以直行通过路口，只要路面安全",
+        "你可以左转，只要路面安全",
+        "你可以右转，只要路面安全"
+      ],
+      "correct_answer": "你必须停车",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 15,
+      "question": "装有蓝色闪灯的车辆是：",
+      "choices": [
+        "有紧急事的警车",
+        "铲雪的车辆",
+        "救护车",
+        "车内装有爆炸品"
+      ],
+      "correct_answer": "铲雪的车辆",
+      "image_path": "images/question_15.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/VgQzXBkX.png"
+    },
+    {
+      "id": 16,
+      "question": "对于行人来说，闪烁的显示“Dot't walk”的信号灯表示：",
+      "choices": [
+        "穿越道路时小心慢行",
+        "不必理会",
+        "不要穿越道路，除非行人已经走到路中央了",
+        "有机会就赶紧穿过街道"
+      ],
+      "correct_answer": "不要穿越道路，除非行人已经走到路中央了",
+      "image_path": "images/question_16.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/oPy8GPkn.png"
+    },
+    {
+      "id": 17,
+      "question": "在某些路口，你会遇到红灯亮起的同时还会同时出现一个绿色的箭头，这表示：",
+      "choices": [
+        "绿色的箭头是给行人看的",
+        "如果你位于面对箭头的方向，那么在路面安全时可以优先通过",
+        "停车，等信号灯由红色变成绿色后再转弯",
+        "先停车，然后再通过"
+      ],
+      "correct_answer": "如果你位于面对箭头的方向，那么在路面安全时可以优先通过",
+      "image_path": "images/question_17.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/b1QPlzQK.png"
+    },
+    {
+      "id": 18,
+      "question": "大部分因车辆打滑所引发的事故都是因为司机的疏忽；下列哪一项不会造成车辆打滑？",
+      "choices": [
+        "车速太慢",
+        "加速太快",
+        "车速太快",
+        "刹车太急"
+      ],
+      "correct_answer": "车速太慢",
+      "image_path": "images/question_18.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WlQ76Myo.png"
+    },
+    {
+      "id": 19,
+      "question": "在你没有获取“全面的驾照（即通过 Class 5 路考）”之前，开车时严禁出现下列哪种情况？",
+      "choices": [
+        "白天时上路",
+        "血液内酒精含量超过0.08毫克",
+        "副驾驶座位上没有合格的督导员或教练",
+        "饮酒，哪怕只是一点点"
+      ],
+      "correct_answer": "饮酒，哪怕只是一点点",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 20,
+      "question": "夜间行驶时，什么情况下必须使用低前照灯？",
+      "choices": [
+        "前方300m内有其他车辆时",
+        "前方1km内有其他车辆时",
+        "没有此类法律规定，随便",
+        "迎面150m内有车辆驶来时"
+      ],
+      "correct_answer": "迎面150m内有车辆驶来时",
+      "image_path": "images/question_20.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/lnk36Ppr.png"
+    },
+    {
+      "id": 21,
+      "question": "在路口遇到停牌，法律要求你怎么做？",
+      "choices": [
+        "减速，如果路口安全则通过",
+        "停车，鸣笛后再通过",
+        "减速，鸣笛，然后通过",
+        "完全停车，待安全后再通过"
+      ],
+      "correct_answer": "完全停车，待安全后再通过",
+      "image_path": "images/question_21.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/dEQ4BPkM.png"
+    },
+    {
+      "id": 22,
+      "question": "在BC省，新手司机获得的第一张驾照是什么？",
+      "choices": [
+        "Class 6",
+        "Class 5",
+        "Learner's licence",
+        "Class 1"
+      ],
+      "correct_answer": "Learner&#039",
+      "image_path": "images/question_22.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/6npLoxQ8.png"
+    },
+    {
+      "id": 23,
+      "question": "如果你的车子在高速上抛锚了，正确的做法是：",
+      "choices": [
+        "下车向其他的过往车辆挥手求助",
+        "下车步行寻求帮助",
+        "将车停在路边，亮起双闪灯，留在车里等候援助",
+        "不停的鸣笛向他人求助"
+      ],
+      "correct_answer": "将车停在路边，亮起双闪灯，留在车里等候援助",
+      "image_path": "images/question_23.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ngpK7dpw.png"
+    },
+    {
+      "id": 24,
+      "question": "司机需要对自己的乘客是否系安全带这件事负责吗？",
+      "choices": [
+        "仅对坐在副驾驶的乘客负责",
+        "仅对18岁以上的乘客负责",
+        "仅对16岁以上的乘客负责",
+        "仅对16岁以下的乘客负责"
+      ],
+      "correct_answer": "仅对16岁以下的乘客负责",
+      "image_path": "images/question_24.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/RjydJjpo.png"
+    },
+    {
+      "id": 25,
+      "question": "在下列哪种条件下才适合使用汽车的“定速巡航”功能？",
+      "choices": [
+        "路面平整，通畅的高速公路上",
+        "在市区的公路上",
+        "路面湿滑的雨雪天气时",
+        "弯曲的道路上"
+      ],
+      "correct_answer": "路面平整，通畅的高速公路上",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 26,
+      "question": "如果你夜晚驾驶时开启了车子的远光灯（high beam），那么当前方距离你多远处出现另外一辆车时，你需要关闭远光灯？",
+      "choices": [
+        "150m",
+        "100m",
+        "250m",
+        "200m"
+      ],
+      "correct_answer": "150m",
+      "image_path": "images/question_26.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/dEybdnpn.png"
+    },
+    {
+      "id": 27,
+      "question": "如果你卷入了一起需要报案的事故，你应该在多长时间内联系距离你最近的省或市警察局？",
+      "choices": [
+        "72小时内",
+        "48小时内",
+        "24小时内",
+        "立刻"
+      ],
+      "correct_answer": "立刻",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 28,
+      "question": "当进入高速公路时，你应该：",
+      "choices": [
+        "打转向灯，加速后平滑的汇入车流",
+        "减速行驶，准备停车",
+        "减速行驶，找个机会迅速进入高速路",
+        "在用于加速的引路部分停车，等到合适的机会再进入高速路"
+      ],
+      "correct_answer": "打转向灯，加速后平滑的汇入车流",
+      "image_path": "images/question_28.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/LKQ56Lpz.png"
+    },
+    {
+      "id": 29,
+      "question": "在下面的路口中，车辆A与B面对绿色信号灯，而行人C正在横穿马路。此时谁有路权？",
+      "choices": [
+        "准备右转的车辆A",
+        "准备左转的车辆B",
+        "正在穿越路口的行人C",
+        "无所谓，保证安全的情况下互不影响"
+      ],
+      "correct_answer": "正在穿越路口的行人C",
+      "image_path": "images/question_29.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/mgkVJakX.png"
+    },
+    {
+      "id": 30,
+      "question": "在任何情况下，你都应该将车速控制好，并与前车保持一个安全距离以便在遇到突发事件时：",
+      "choices": [
+        "在150m内停车",
+        "在60m内停车",
+        "在90m内停车",
+        "在一个安全距离内停车"
+      ],
+      "correct_answer": "在一个安全距离内停车",
+      "image_path": "images/question_30.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/GAyj9Pkq.png"
+    },
+    {
+      "id": 31,
+      "question": "当你准备在路口右转时，车子应该位于哪条车道上？",
+      "choices": [
+        "紧贴路的左侧",
+        "靠近路的中线",
+        "没有相关规定",
+        "靠近路的右侧"
+      ],
+      "correct_answer": "靠近路的右侧",
+      "image_path": "images/question_31.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/NYyM3Bp0.png"
+    },
+    {
+      "id": 32,
+      "question": "在路上行驶时，与前车保持的最小安全距离是多少？",
+      "choices": [
+        "七辆车的长度",
+        "五辆车的长度",
+        "当前车速下，行进1秒钟的距离",
+        "当前车速下，行进2秒钟的距离"
+      ],
+      "correct_answer": "当前车速下，行进2秒钟的距离",
+      "image_path": "images/question_32.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WmQYvJpd.png"
+    },
+    {
+      "id": 33,
+      "question": "当你准备在路旁停车时，需要距离路口或“停牌”等交通标志多远才行？",
+      "choices": [
+        "3m",
+        "5m",
+        "6m",
+        "4m"
+      ],
+      "correct_answer": "6m",
+      "image_path": "images/question_33.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/AqpeVRkl.png"
+    },
+    {
+      "id": 34,
+      "question": "当你准备离开停车位时，你需要：",
+      "choices": [
+        "鸣笛警告周围的车辆和行人，然后迅速离开车位",
+        "注意附近的车辆和行人，打转向灯，确认安全后离开车位",
+        "打转向灯，离开车位",
+        "注意附近的车辆，打转向灯后立刻离开车位"
+      ],
+      "correct_answer": "注意附近的车辆和行人，打转向灯，确认安全后离开车位",
+      "image_path": "images/question_34.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/oNQOv7yq.png"
+    },
+    {
+      "id": 35,
+      "question": "在 BC 省，如果你被控酒后驾驶且罪名成立，那么在首次触犯该法律时将会被吊销驾照多长时间？",
+      "choices": [
+        "3个月",
+        "2个月",
+        "12个月",
+        "6个月"
+      ],
+      "correct_answer": "12个月",
+      "image_path": "images/question_35.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/X2ymgqpw.png"
+    },
+    {
+      "id": 36,
+      "question": "如果一辆商用货车在路上抛锚了，需要在车头和车尾处放置用于提醒的反光安全标志；那么这些安全标志需要距离货车多远呢？",
+      "choices": [
+        "90m",
+        "30m",
+        "10m",
+        "60m"
+      ],
+      "correct_answer": "30m",
+      "image_path": "images/question_36.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/1VQqXAyY.png"
+    },
+    {
+      "id": 37,
+      "question": "在路上行驶时，如果路中央靠近你这一侧的是实线，意味着：",
+      "choices": [
+        "超车时要小心",
+        "对面没有其他车辆经过时可以越过它",
+        "不要越过实线，危险！",
+        "可以越过这条实线"
+      ],
+      "correct_answer": "不要越过实线，危险！",
+      "image_path": "images/question_37.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/xnk66Gk1.png"
+    },
+    {
+      "id": 38,
+      "question": "当你在行驶中准备换线时，一定要：",
+      "choices": [
+        "打转向灯的同时减速",
+        "按喇叭和打手势",
+        "打转向灯，检查后视镜和盲点",
+        "检查后视镜"
+      ],
+      "correct_answer": "打转向灯，检查后视镜和盲点",
+      "image_path": "images/question_38.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/JqQgVByX.png"
+    },
+    {
+      "id": 39,
+      "question": "当你在下坡路上停车时，应该：",
+      "choices": [
+        "将车辆前轮转向左边，同时拉上手刹",
+        "将车辆前轮转向右边，尽量靠近路边石",
+        "将车辆前轮与路边石平行",
+        "记得拉手刹"
+      ],
+      "correct_answer": "将车辆前轮转向右边，尽量靠近路边石",
+      "image_path": "images/question_39.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/5aQ230pD.png"
+    },
+    {
+      "id": 40,
+      "question": "当你持“初学者驾照”开车时，你必须将“初学者驾照”标志摆放在车内；这句话正确吗：",
+      "choices": [
+        "错误",
+        "正确"
+      ],
+      "correct_answer": "正确",
+      "image_path": "images/question_40.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Ney07Kk3.png"
+    },
+    {
+      "id": 41,
+      "question": "停车灯是用来做什么的？",
+      "choices": [
+        "大雾天气时可以使用",
+        "在照明条件好的街道上可以使用",
+        "任何情况下都可以使用",
+        "仅用于停车时使用"
+      ],
+      "correct_answer": "仅用于停车时使用",
+      "image_path": "images/question_41.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WwQxYDpM.png"
+    },
+    {
+      "id": 42,
+      "question": "当你在一条单行线上准备左转时，车子需要在路的什么位置上？",
+      "choices": [
+        "无所谓，打转向灯就行",
+        "靠近路的左侧",
+        "靠近路的中线",
+        "靠近路的右侧"
+      ],
+      "correct_answer": "靠近路的左侧",
+      "image_path": "images/question_42.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/q3yvgNQz.png"
+    },
+    {
+      "id": 43,
+      "question": "当发生交通事故时，如果有人受伤或者损失超过 ____ 时，必须报警。",
+      "choices": [
+        "$500",
+        "$1000",
+        "$800",
+        "$100"
+      ],
+      "correct_answer": "$1000",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 44,
+      "question": "每年的什么时候，ICBC会向你发出 Driver Penalty Point(DPP) 账单？",
+      "choices": [
+        "只要你违规扣分了，就会向你发出",
+        "当你累计被扣8分的时候",
+        "在你等候事故处理期间",
+        "在你生日之前（生日快乐！）"
+      ],
+      "correct_answer": "在你生日之前（生日快乐！）",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 45,
+      "question": "在一个路口，面向你的信号灯是红灯，但是此时路口有一名警察示意你直行通过。你应该怎么做？",
+      "choices": [
+        "听从指挥并通过路口",
+        "停车，确认他是要你通过",
+        "不理他，等到绿灯再通过",
+        "提醒这名警察现在是红灯"
+      ],
+      "correct_answer": "听从指挥并通过路口",
+      "image_path": "images/question_45.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/54kBGNym.png"
+    },
+    {
+      "id": 46,
+      "question": "当遇到车子打滑偏离路面时，下列操作中的哪一个是应该避免的？",
+      "choices": [
+        "尽可能反方向转动方向盘以使车子回到正轨",
+        "加速",
+        "握紧方向盘，不要急刹车",
+        "让脚离开油门，降低速度"
+      ],
+      "correct_answer": "加速",
+      "image_path": "images/question_46.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/zJQGGzQ7.png"
+    },
+    {
+      "id": 47,
+      "question": "行驶中突然爆胎了，这时你该如何处理？",
+      "choices": [
+        "踩刹车，向右打方向盘",
+        "让脚离开油门以减速，同时握紧方向盘尽量避免车子偏离路面",
+        "急刹车停下来",
+        "踩刹车，向左打方向盘"
+      ],
+      "correct_answer": "让脚离开油门以减速，同时握紧方向盘尽量避免车子偏离路面",
+      "image_path": "images/question_47.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/LnQn3gpx.png"
+    },
+    {
+      "id": 48,
+      "question": "行驶中突然发动机熄火了，这时你该如何处理？",
+      "choices": [
+        "所有答案都正确",
+        "停车后打开发动机盖子，然后留在车旁寻求帮助",
+        "打转向灯示意周围车辆，然后离开路面停车",
+        "打开双闪警示灯"
+      ],
+      "correct_answer": "所有答案都正确",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 49,
+      "question": "在能见度低的天气里（雨雪或大雾）行驶时，你应该使用哪一种车灯？",
+      "choices": [
+        "不用开车灯",
+        "无所谓，随便用",
+        "近光灯（Low beam）",
+        "远光灯（High beam）"
+      ],
+      "correct_answer": "近光灯（Low beam）",
+      "image_path": "images/question_49.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/wBpavLk7.png"
+    },
+    {
+      "id": 50,
+      "question": "在一个十字路口，有悬挂着的闪烁的红色信号灯，这表示什么？",
+      "choices": [
+        "你必须完全停车，确认安全后再通过",
+        "信号灯坏了，不用理会",
+        "减速，如果左右有车辆经过，你需要让行",
+        "减速，小心通过"
+      ],
+      "correct_answer": "你必须完全停车，确认安全后再通过",
+      "image_path": "images/question_50.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/bqk9VxyK.png"
+    },
+    {
+      "id": 51,
+      "question": "当你在路旁停车时，需要和消防栓保持多远的距离？",
+      "choices": [
+        "5m",
+        "4m",
+        "2m",
+        "3m"
+      ],
+      "correct_answer": "5m",
+      "image_path": "images/question_51.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/vMQNnnQ6.png"
+    },
+    {
+      "id": 52,
+      "question": "冬天路滑，驾驶时应该注意什么？",
+      "choices": [
+        "无所谓，随心所欲",
+        "慢点开",
+        "快点开",
+        "和夏天时一样，没什么特殊的"
+      ],
+      "correct_answer": "慢点开",
+      "image_path": "images/question_52.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/1xyXrjpd.png"
+    },
+    {
+      "id": 53,
+      "question": "驾驶时如果遇到因路面积水而导致车辆打滑，应该如何处理？",
+      "choices": [
+        "重踩刹车，一定要大力的踩，使出吃奶的劲儿",
+        "不要踩刹车，松开油门减速同时尽力保持车身直行",
+        "去修车店",
+        "轻踩刹车，尽快将车停靠路边"
+      ],
+      "correct_answer": "不要踩刹车，松开油门减速同时尽力保持车身直行",
+      "image_path": "images/question_53.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/xVQD98pm.png"
+    },
+    {
+      "id": 54,
+      "question": "在湿滑的路面上准备停车时，怎样操作才是正确的？",
+      "choices": [
+        "重踩刹车，同时尽量避免车子打滑",
+        "和平时一样踩刹车就可以了",
+        "用脚轻点刹车，不要踩死；重复这个动作，直到车子停下来",
+        "不要踩刹车，让车子自己滑行直到停下来"
+      ],
+      "correct_answer": "用脚轻点刹车，不要踩死；重复这个动作，直到车子停下来",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 55,
+      "question": "根据 BC 省规定，你需要年满多少岁才有资格申请“初学者驾照”？",
+      "choices": [
+        "16岁",
+        "14岁",
+        "13岁",
+        "15岁"
+      ],
+      "correct_answer": "16岁",
+      "image_path": "images/question_55.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Eny1o2pL.png"
+    },
+    {
+      "id": 56,
+      "question": "当你来到一个红灯时允许右转的路口并准备右转时，法律要求你怎么做？",
+      "choices": [
+        "你必须先完全停车，然后在安全的前提下完成右转操作",
+        "减速，小心的右转",
+        "停车，然后慢慢向前滑行，右转",
+        "减速，打转向灯，右转"
+      ],
+      "correct_answer": "你必须先完全停车，然后在安全的前提下完成右转操作",
+      "image_path": "images/question_56.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ZMQAXwyK.png"
+    },
+    {
+      "id": 57,
+      "question": "什么情况下，你可以将自己的驾照借给别人？",
+      "choices": [
+        "当需要鉴别自己的身份时",
+        "永远不要这样做",
+        "如果对方想学车，就可以借给他",
+        "紧急情况下"
+      ],
+      "correct_answer": "永远不要这样做",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 58,
+      "question": "如果跟在你后面的车有明确的意图想要超过你，你应该怎样做？",
+      "choices": [
+        "想办法告诉对方不要超车",
+        "对方想从哪边超车，你就将车子偏向哪边，就不让他超",
+        "尽量让车子靠右，让他超车",
+        "加速，这样他就不能超车了"
+      ],
+      "correct_answer": "尽量让车子靠右，让他超车",
+      "image_path": "images/question_58.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/36yRdwpz.png"
+    },
+    {
+      "id": 59,
+      "question": "如果一个人的驾照被吊销了，那么以下哪个描述是正确的？",
+      "choices": [
+        "如果只是上下班，那么可以驾车",
+        "在任何情况下都不能驾驶机动车",
+        "在身旁有其他持有驾照的人陪伴时，可以驾车",
+        "在紧急时刻，可以驾车"
+      ],
+      "correct_answer": "在任何情况下都不能驾驶机动车",
+      "image_path": "images/question_59.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/VgQzYByX.png"
+    },
+    {
+      "id": 60,
+      "question": "如果 A，B两车几乎同时到达一个没有信号灯的路口，请问谁有路权呢？",
+      "choices": [
+        "左侧的A车",
+        "右侧的B车",
+        "开的快的那台车",
+        "都没有路权"
+      ],
+      "correct_answer": "右侧的B车",
+      "image_path": "images/question_60.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/oPy8MPQn.png"
+    },
+    {
+      "id": 61,
+      "question": "什么情况下，可以安全的从右侧超越前车？",
+      "choices": [
+        "如果路旁有路肩，那么可以这么做",
+        "任何情况下都不能这么做",
+        "如果在你行进的方向上，有两条或两条以上车道时",
+        "在任何街道上都可以"
+      ],
+      "correct_answer": "如果在你行进的方向上，有两条或两条以上车道时",
+      "image_path": "images/question_61.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/b1QPdzQK.png"
+    },
+    {
+      "id": 62,
+      "question": "哪3种因素决定了车辆的停车距离？",
+      "choices": [
+        "感知时间，反应时间和刹车的时机",
+        "雨，雪和路况",
+        "雨，雪和雾",
+        "刹车片和轮胎的状况，还有路况"
+      ],
+      "correct_answer": "感知时间，反应时间和刹车的时机",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 63,
+      "question": "夜间驾驶时，如果遇到对面的车辆开着远光灯驶来，且影响你的视线；你该怎么办？",
+      "choices": [
+        "快速的睁眼和闭眼来消除不利影响",
+        "打开你的远光灯回敬对方",
+        "尽量将自己的视线抬高，稍稍望向对方车灯的右侧方",
+        "直视对方车灯"
+      ],
+      "correct_answer": "尽量将自己的视线抬高，稍稍望向对方车灯的右侧方",
+      "image_path": "images/question_63.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Zapo43kg.png"
+    },
+    {
+      "id": 64,
+      "question": "当你到达一个路口时，发现路口已经塞车了；这时你应该怎么做？",
+      "choices": [
+        "鸣笛，催促前方车辆",
+        "停在路口之外，等待前方的车辆被疏通",
+        "尽可能靠近前车，防止别人加塞进来",
+        "慢慢驶入路口，等待前方的车辆被疏通"
+      ],
+      "correct_answer": "停在路口之外，等待前方的车辆被疏通",
+      "image_path": "images/question_64.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/lnk34Pyr.png"
+    },
+    {
+      "id": 65,
+      "question": "根据法律要求，在什么时候需要开启车头灯？",
+      "choices": [
+        "没有特别时间规定",
+        "在日落前半小时，在日出后半小时及任何时间在150m内看不清事物时",
+        "在黄昏及黎明之间和在任何时间150m内看不清时",
+        "在日落和日出时"
+      ],
+      "correct_answer": "在日落前半小时，在日出后半小时及任何时间在150m内看不清事物时",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 66,
+      "question": "夜晚行车时，你应该在什么情况下使用近光灯（Low beam）？",
+      "choices": [
+        "与对面来车交汇或跟随其他车辆时",
+        "到达一个路口时",
+        "当对面车辆的灯光影响自己视线时",
+        "当其他车辆开启车灯时"
+      ],
+      "correct_answer": "与对面来车交汇或跟随其他车辆时",
+      "image_path": "images/question_66.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/6npLGxQ8.png"
+    },
+    {
+      "id": 67,
+      "question": "路中央的虚线表示什么？",
+      "choices": [
+        "只有在白天才可以超车",
+        "不能超车",
+        "如果安全，可以超车",
+        "任何时候都可以超车"
+      ],
+      "correct_answer": "如果安全，可以超车",
+      "image_path": "images/question_67.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ngpKGdpw.png"
+    },
+    {
+      "id": 68,
+      "question": "当你搬家或改换自己的名字时，法律规定你要在多长时间内通知 ICBC？",
+      "choices": [
+        "20天内",
+        "什么时间都行",
+        "10天内",
+        "28天内"
+      ],
+      "correct_answer": "10天内",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 69,
+      "question": "路口，一名行人正在过马路，你前面的车停下来等候；这时你可以超车吗？",
+      "choices": [
+        "可以从右侧超越前车",
+        "鸣笛，催促前方车辆快点走",
+        "绝不能超越任何距离行人30米之内的前方车辆",
+        "可以从左侧超越前车"
+      ],
+      "correct_answer": "绝不能超越任何距离行人30米之内的前方车辆",
+      "image_path": "images/question_69.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/2WyWj5kJ.png"
+    },
+    {
+      "id": 70,
+      "question": "安全带在车祸中能起到什么作用？",
+      "choices": [
+        "降低你受伤和死亡的机率",
+        "警察不会给你开罚单",
+        "什么用也没有",
+        "增加你受伤的机率"
+      ],
+      "correct_answer": "降低你受伤和死亡的机率",
+      "image_path": "images/question_70.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/dEybVnyn.png"
+    },
+    {
+      "id": 71,
+      "question": "当你路上准备“U型”转弯时，需要注意什么？",
+      "choices": [
+        "天气情况",
+        "小心路边石",
+        "交通法规，所在区域是否允许“U型”转弯",
+        "转弯时的弧度"
+      ],
+      "correct_answer": "交通法规，所在区域是否允许“U型”转弯",
+      "image_path": "images/question_71.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/D3QZ6RQO.png"
+    },
+    {
+      "id": 72,
+      "question": "在路上行驶时，除非你需要左转弯或者超车，否则你应该：",
+      "choices": [
+        "始终保持在左车道行驶",
+        "保持在路的右侧行驶，如果有多条车道，那么保持在右车道",
+        "保持在路中央行驶",
+        "在高速公路的路肩上行驶"
+      ],
+      "correct_answer": "保持在路的右侧行驶，如果有多条车道，那么保持在右车道",
+      "image_path": "images/question_72.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/LKQ5mLQz.png"
+    },
+    {
+      "id": 73,
+      "question": "什么情况下车辆可以穿越自行车道？",
+      "choices": [
+        "当你拥有一张许可时",
+        "穿越自行车道是违法的",
+        "当你想在路旁停车时",
+        "当自行车道分割线是虚线时，或者你要驶入或驶出一条私家车道"
+      ],
+      "correct_answer": "当自行车道分割线是虚线时，或者你要驶入或驶出一条私家车道",
+      "image_path": "images/question_73.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/mgkVdaQX.png"
+    },
+    {
+      "id": 74,
+      "question": "如果你拒绝接受警察要求的酒精检测，会发生什么？",
+      "choices": [
+        "你可以在24小时内接受检测",
+        "你的驾照将被吊销，同时面临刑事指控",
+        "你可以选择到警察局接受酒精检测",
+        "你会被警告"
+      ],
+      "correct_answer": "你的驾照将被吊销，同时面临刑事指控",
+      "image_path": "images/question_74.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/GAyj8Ppq.png"
+    },
+    {
+      "id": 75,
+      "question": "如果前方有紧急车辆在鸣笛行进，则你的跟车距离不能少于多少米？",
+      "choices": [
+        "350m",
+        "150m",
+        "50m",
+        "25m"
+      ],
+      "correct_answer": "150m",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 76,
+      "question": "以下哪一项是 Class 7 Novice 驾照持有者可以做，而 Class 7 Learner 驾照持有者不能做的？",
+      "choices": [
+        "这两种驾照没有区别",
+        "携带其他乘客",
+        "在上下班高峰时驾驶",
+        "在午夜至第二天早上5点之间上路行驶"
+      ],
+      "correct_answer": "在午夜至第二天早上5点之间上路行驶",
+      "image_path": "images/question_76.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WmQYYJQd.png"
+    },
+    {
+      "id": 77,
+      "question": "在开启车灯行驶时，前方多远距离内出现车辆时你必须使用近光灯（Low beam）？",
+      "choices": [
+        "120米内",
+        "与距离无关，只要前方有车辆",
+        "30米内",
+        "60米内"
+      ],
+      "correct_answer": "60米内",
+      "image_path": "images/question_77.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Aqpe1Rpl.png"
+    },
+    {
+      "id": 78,
+      "question": "路边平行泊车时，你的车子距离路边石不能超过多少厘米？",
+      "choices": [
+        "50cm",
+        "30cm",
+        "10cm",
+        "5cm"
+      ],
+      "correct_answer": "30cm",
+      "image_path": "images/question_78.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/oNQOZ7yq.png"
+    },
+    {
+      "id": 79,
+      "question": "当你到达路口时，信号灯刚刚由绿色转为黄色，此时你该怎么做？",
+      "choices": [
+        "无需减速和停车，继续通过",
+        "加速，抢在信号灯变成红色前通过",
+        "停车。如果来不及停车那么注意嘹望并继续通过",
+        "鸣笛，警告行人和其他车辆，让他们知道你不会停车的"
+      ],
+      "correct_answer": "停车。如果来不及停车那么注意嘹望并继续通过",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 80,
+      "question": "有时需要用手势告诉其他司机你的意图是什么。比如你想停车，那么用手势该如何表达呢？",
+      "choices": [
+        "伸出胳膊，水平抬起",
+        "用手臂做“画圆圈”的动作",
+        "伸出胳膊，小臂下垂",
+        "伸出胳膊，小臂举起"
+      ],
+      "correct_answer": "伸出胳膊，小臂下垂",
+      "image_path": "images/question_80.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/1VQqYAQY.png"
+    },
+    {
+      "id": 81,
+      "question": "倒车时，你需要怎么做？",
+      "choices": [
+        "只要在后视镜和侧镜中确认路况安全，就可以倒车",
+        "打转向灯，然后倒车",
+        "环顾四周，确认安全再倒车",
+        "下车坚持车辆的四周，确认安全后回到车里开始倒车"
+      ],
+      "correct_answer": "环顾四周，确认安全再倒车",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 82,
+      "question": "当你在路口遇到“让牌”时，法律要求你怎么做？",
+      "choices": [
+        "停车，然后迅速前行",
+        "加速前进",
+        "停车，然后缓慢前行",
+        "减速，必要时还得停车，直到安全时再前进"
+      ],
+      "correct_answer": "减速，必要时还得停车，直到安全时再前进",
+      "image_path": "images/question_82.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/JqQgEBkX.png"
+    },
+    {
+      "id": 83,
+      "question": "当你准备从私家路驶入大路时，需要怎样做？",
+      "choices": [
+        "你需要让出路权给大路上的车辆",
+        "打手势，告诉其他车辆你要右转",
+        "尽快驶入大路",
+        "鸣笛，然后驶入大路"
+      ],
+      "correct_answer": "你需要让出路权给大路上的车辆",
+      "image_path": "images/question_83.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/5aQ2B0QD.png"
+    },
+    {
+      "id": 84,
+      "question": "如果你初到BC省，手持外省或外国驾照，那么在多长时间内你可以合法驾车？",
+      "choices": [
+        "365天内",
+        "180天内",
+        "90天内",
+        "120天内"
+      ],
+      "correct_answer": "90天内",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 85,
+      "question": "为什么说在夜间驾驶时超速比白天更危险？",
+      "choices": [
+        "因为有些司机夜里开车不打灯",
+        "因为你没法看的很远，即便开启车灯",
+        "因为夜里路面比较湿滑",
+        "因为夜间时你的反应没有白天快"
+      ],
+      "correct_answer": "因为你没法看的很远，即便开启车灯",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 86,
+      "question": "在交通拥堵时，一名骑自行车的人想要在路口左转；如果你想帮助他，该怎么做？",
+      "choices": [
+        "你换线到另外的车道上，以便其他司机可以看到骑车人的手势",
+        "什么也别做，留在原地",
+        "为他留出足够的空间，以便他换线到左车道",
+        "对着骑车的人命鸣笛，示意他们通过"
+      ],
+      "correct_answer": "为他留出足够的空间，以便他换线到左车道",
+      "image_path": "images/question_86.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/q3yvENkz.png"
+    },
+    {
+      "id": 87,
+      "question": "行驶中的“空间”除前后车距外，还包括能让自己在危急时迅速换线的空档。图中哪辆车是不具备空间来换线的？",
+      "choices": [
+        "车辆C",
+        "车辆B",
+        "车辆D",
+        "车辆A"
+      ],
+      "correct_answer": "车辆B",
+      "image_path": "images/question_87.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/JwQJ4AkN.png"
+    },
+    {
+      "id": 88,
+      "question": "如果转弯时速度过快，由于惯性可能会导致你的车子：",
+      "choices": [
+        "摇晃失控",
+        "速度更快",
+        "无法转向而冲出路面",
+        "刹车锁死"
+      ],
+      "correct_answer": "无法转向而冲出路面",
+      "image_path": "images/question_88.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/KvprDlyr.png"
+    },
+    {
+      "id": 89,
+      "question": "图中的A车可以做什么操作？",
+      "choices": [
+        "不能超车，但可以越线左转",
+        "可以超车，但不能越线左转",
+        "不能超车也不能左转",
+        "可以超车和左转"
+      ],
+      "correct_answer": "不能超车，但可以越线左转",
+      "image_path": "images/question_89.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/54kBENpm.png"
+    },
+    {
+      "id": 90,
+      "question": "你的车子在一个铁路道口停下了，此时路口信号灯还在闪烁。那么你何时才能继续前进呢？",
+      "choices": [
+        "一直等到安全后才能通过",
+        "等列车通过后，且信号灯变为黄色时",
+        "只要列车通过了，就可以走了",
+        "等到信号灯变为绿色时"
+      ],
+      "correct_answer": "一直等到安全后才能通过",
+      "image_path": "images/question_90.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/zJQG7zQ7.png"
+    },
+    {
+      "id": 91,
+      "question": "图中这两位骑手的手势表示什么？",
+      "choices": [
+        "停车",
+        "他们要下车",
+        "右转",
+        "左转"
+      ],
+      "correct_answer": "右转",
+      "image_path": "images/question_91.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/LnQnDgkx.png"
+    },
+    {
+      "id": 92,
+      "question": "当你驾车驶入一条弯道时，为什么说将脚离开油门是一个好习惯呢？",
+      "choices": [
+        "因为弯道中可能需要刹车",
+        "因为你可能需要在弯道中加速",
+        "因为这是一个不用踩刹车就能减速的好办法",
+        "法律规定你必须这么做"
+      ],
+      "correct_answer": "因为这是一个不用踩刹车就能减速的好办法",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 93,
+      "question": "图中是一个环岛，如果车辆A想要驶入路口B，正确的操作应该是：",
+      "choices": [
+        "根据规则在环岛中行驶，然后进入路口B",
+        "注意避让环岛中的车辆，安全后右转，然后从路口B离开",
+        "等到环岛中没有其他车辆时，左转",
+        "等摩托车C通过后，左转"
+      ],
+      "correct_answer": "注意避让环岛中的车辆，安全后右转，然后从路口B离开",
+      "image_path": "images/question_93.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/wBpa2Lk7.png"
+    },
+    {
+      "id": 94,
+      "question": "当你行进在一条湿滑的道路上时，是否还需要按照规定的限速来驾驶呢？",
+      "choices": [
+        "我可以自己决定是否需要减速和增大跟车距离来保障安全",
+        "只要车子换了雪胎就不用在乎限速要求",
+        "只要我的车子安装了“四季胎”就没事",
+        "是的，只要不超过限速就可以避免打滑"
+      ],
+      "correct_answer": "我可以自己决定是否需要减速和增大跟车距离来保障安全",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 95,
+      "question": "行人和骑车的人容易被机动车伤害，这是因为:",
+      "choices": [
+        "他们不遵守交通规则",
+        "交通事故通常是因为他们引发的",
+        "他们速度慢",
+        "一旦发生意外，他们因缺乏防护而更容易受伤"
+      ],
+      "correct_answer": "一旦发生意外，他们因缺乏防护而更容易受伤",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 96,
+      "question": "如果你在高速公路上追随一辆大车或摩托车，你的跟车距离应该维持在：",
+      "choices": [
+        "6秒钟的距离",
+        "3秒钟的距离",
+        "4秒钟的距离",
+        "2秒钟的距离"
+      ],
+      "correct_answer": "3秒钟的距离",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 97,
+      "question": "在一个四面都是停牌的路口，所有的车都应该让右侧的车先行；除非：",
+      "choices": [
+        "另外一辆车比其他人先到路口并已经完全停车（即“先到先走”法则）",
+        "另外一辆车是巴士",
+        "其他车辆前方有行人通过，那么你可以先走",
+        "另外一辆先到路口的车示意你先过"
+      ],
+      "correct_answer": "另外一辆车比其他人先到路口并已经完全停车（即“先到先走”法则）",
+      "image_path": "images/question_97.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/xVQDz8km.png"
+    },
+    {
+      "id": 98,
+      "question": "当你到达一个没有信号灯控制的路口，需要停车吗？",
+      "choices": [
+        "不需要，只需减速和嘹望",
+        "不需要，鸣笛提醒别人注意即可",
+        "不需要，但是应该注意嘹望",
+        "必须停车"
+      ],
+      "correct_answer": "不需要，只需减速和嘹望",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 99,
+      "question": "通常，车辆在行驶中出现侧滑现象是因为：",
+      "choices": [
+        "路面湿滑",
+        "机械故障",
+        "驾驶技术糟糕",
+        "前方有其他车子突然停下了"
+      ],
+      "correct_answer": "路面湿滑",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 100,
+      "question": "在右转时，你需要将头扭过肩膀来做什么？",
+      "choices": [
+        "确认你后面的车辆没有跟你太近",
+        "警告后面同样想要右转的车辆",
+        "确认右后方没有行人或骑车的人在盲点中",
+        "确认你行驶在正确的车道上"
+      ],
+      "correct_answer": "确认右后方没有行人或骑车的人在盲点中",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 101,
+      "question": "如果因为你的车速低于限速要求，导致后面的车辆已经排成一队了；为何这时最好的做法是安全的停车到路边让别人先通过呢？",
+      "choices": [
+        "因为后面的司机可能因为急躁和愤怒而超车并危害到你",
+        "这是法律要求",
+        "因为BC省的人都很有礼貌",
+        "你本来就不应该开这么慢"
+      ],
+      "correct_answer": "因为后面的司机可能因为急躁和愤怒而超车并危害到你",
+      "image_path": "images/question_101.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/v7pE8ZQ5.png"
+    },
+    {
+      "id": 102,
+      "question": "在一台手动档汽车上，第一档和第二档（D1, D2）是在何时使用的？",
+      "choices": [
+        "下雨时",
+        "上下陡坡或拖拉重物时",
+        "停车时",
+        "离开高速公路时"
+      ],
+      "correct_answer": "上下陡坡或拖拉重物时",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 103,
+      "question": "当你行进在一条未铺设沥青的路段上时，你和前车的距离应该至少维持在：",
+      "choices": [
+        "4秒钟的距离",
+        "6秒钟的距离",
+        "2秒钟的距离",
+        "3秒钟的距离"
+      ],
+      "correct_answer": "3秒钟的距离",
+      "image_path": "images/question_103.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/VgQzPBkX.png"
+    },
+    {
+      "id": 104,
+      "question": "虽然环境因素（如雨雪）可能会带来影响，但驾驶时出现侧滑的主要原因还是：",
+      "choices": [
+        "糟糕的驾驶技术",
+        "湿滑的路面",
+        "机械故障",
+        "爆胎"
+      ],
+      "correct_answer": "糟糕的驾驶技术",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 105,
+      "question": "现在是晚上6点，学校附近的人行道旁站着一名手持“停牌”的安全辅导员，不过周围并没有学生经过。此时你应该怎么做？",
+      "choices": [
+        "减速，小心驶过人行道",
+        "听从指挥，停车",
+        "减速，如果看到孩子经过就立刻停车",
+        "因为不是上学的时间，所以不用理会"
+      ],
+      "correct_answer": "听从指挥，停车",
+      "image_path": "images/question_105.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/b1QPZzkK.png"
+    },
+    {
+      "id": 106,
+      "question": "为什么在路口遇到黄灯时应该尽可能停下？",
+      "choices": [
+        "所有答案都正确",
+        "避免车祸发生",
+        "这么做是最安全的",
+        "这是法律"
+      ],
+      "correct_answer": "所有答案都正确",
+      "image_path": "images/question_106.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WlQ7jMyo.png"
+    },
+    {
+      "id": 107,
+      "question": "一辆静止并闪着红灯的校车正在等候学生上下车，你因此停车等候；那么你什么时候才能继续前行呢？",
+      "choices": [
+        "必须等到校车上的红灯停止闪烁，且收起了“停牌”标志",
+        "如果其他车开动了，你也可以跟着走了",
+        "必须等到校车开动了，你才能走",
+        "只要确认不会撞到孩子们，就可以开车了"
+      ],
+      "correct_answer": "必须等到校车上的红灯停止闪烁，且收起了“停牌”标志",
+      "image_path": "images/question_107.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ZapoD3kg.png"
+    },
+    {
+      "id": 108,
+      "question": "以下哪件事是你在进入高速公路时所不能做的？",
+      "choices": [
+        "停下来等机会",
+        "打信号灯告诉其他司机你的意图",
+        "调整车速，以便顺利进入高速路",
+        "留意安全的机会并入高速路"
+      ],
+      "correct_answer": "停下来等机会",
+      "image_path": "images/question_108.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/lnk3ePQr.png"
+    },
+    {
+      "id": 109,
+      "question": "如果遇到其他司机向你大声鸣笛或冲你吼叫，你应该：",
+      "choices": [
+        "冲他们大吼",
+        "开慢点就好了",
+        "根据你平时对于安全驾驶知识的了解来判断对方为何会这么做",
+        "他们想让你怎样做，你照办就好"
+      ],
+      "correct_answer": "根据你平时对于安全驾驶知识的了解来判断对方为何会这么做",
+      "image_path": "images/question_109.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/dEQ49PpM.png"
+    },
+    {
+      "id": 110,
+      "question": "平日驾车中的哪种行为最容易激怒其他司机？",
+      "choices": [
+        "为其他车子让路",
+        "因为你车速缓慢，后面好多车辆已经排成一队了，而你仍然没有让开的意思",
+        "停车场里就剩一个车位了，结果你占去了",
+        "把路权让给别人"
+      ],
+      "correct_answer": "因为你车速缓慢，后面好多车辆已经排成一队了，而你仍然没有让开的意思",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 111,
+      "question": "图中这名骑车人的手势表示什么意思：",
+      "choices": [
+        "左转",
+        "减速或停车",
+        "让后面的人先过",
+        "右转"
+      ],
+      "correct_answer": "减速或停车",
+      "image_path": "images/question_111.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Eny1YbyL.png"
+    },
+    {
+      "id": 112,
+      "question": "当高速公路上有紧急车辆（如警车）停靠在路旁时，如果你不能通过变线来避让的话，那么你应该减速到多少公里后再小心通过呢？",
+      "choices": [
+        "30km/h",
+        "70km/h",
+        "50km/h",
+        "40km/h"
+      ],
+      "correct_answer": "70km/h",
+      "image_path": "images/question_112.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ZMQAldyK.png"
+    },
+    {
+      "id": 113,
+      "question": "在BC省，每年有30%的车祸是因 ____ 引发的。",
+      "choices": [
+        "饮酒",
+        "机械故障",
+        "不打转向灯",
+        "爆胎"
+      ],
+      "correct_answer": "饮酒",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 114,
+      "question": "这个标志表示什么？",
+      "choices": [
+        "附近有游乐场，小心驾驶",
+        "学校附近的人行道，有行人时要停车",
+        "附近有体育场，注意人群",
+        "当有行人经过时，减速到30km/h"
+      ],
+      "correct_answer": "附近有游乐场，小心驾驶",
+      "image_path": "images/question_114.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/36yRWnQz.png"
+    },
+    {
+      "id": 115,
+      "question": "如图所示，面向车辆A的信号灯刚刚变为绿色，此时闪着灯的救护车B从后方驶来；这时车辆A应该怎么办？",
+      "choices": [
+        "倒车，停到路边来让路",
+        "加速通过路口，给救护车B让路",
+        "向车辆C鸣笛，让他停车到路边去",
+        "右转弯，让开道路给救护车B"
+      ],
+      "correct_answer": "右转弯，让开道路给救护车B",
+      "image_path": "images/question_115.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/VgQzPRkX.png"
+    },
+    {
+      "id": 116,
+      "question": "你驾车到达一个没有信号灯和人行道的路口，此时正好有行人走到路口准备过马路；你应该怎么做？",
+      "choices": [
+        "准备停车，以便行人安全通过",
+        "不管有无行人，都要在路口停车",
+        "保持车速前进，行人不会找死的",
+        "停车，挥手示意行人先过"
+      ],
+      "correct_answer": "准备停车，以便行人安全通过",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 117,
+      "question": "如果你在某条道路的上方看到图中这样的信号灯，表示什么？",
+      "choices": [
+        "有“x”亮起的车道正在施工",
+        "不用在乎，该怎么开就怎么开",
+        "不要在有“x”亮起的车道上行驶，而应该转移到有“箭头”的车道上",
+        "有“x”亮起的车道即将通车"
+      ],
+      "correct_answer": "不要在有“x”亮起的车道上行驶，而应该转移到有“箭头”的车道上",
+      "image_path": "images/question_117.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/b1QPZakK.png"
+    },
+    {
+      "id": 118,
+      "question": "如果在路口遇到一个永远显示红灯的信号灯，该怎么办？",
+      "choices": [
+        "停车，确认安全后通过",
+        "必须停车，如果你打算右转",
+        "你首先要完全停车，然后可以右转或左转进入一条单行线，除非有其他标志禁止你这样做",
+        "如果左右方向有车经过，你需要停车避让"
+      ],
+      "correct_answer": "你首先要完全停车，然后可以右转或左转进入一条单行线，除非有其他标志禁止你这样做",
+      "image_path": "images/question_118.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WlQ7jXyo.png"
+    },
+    {
+      "id": 119,
+      "question": "路口的红灯在不停闪烁，表示什么？",
+      "choices": [
+        "停车，直到信号灯变为闪烁的绿灯",
+        "停车，直到信号灯变为闪烁的黄灯",
+        "停车，确认安全再通过路口",
+        "减速，确认安全再通过路口"
+      ],
+      "correct_answer": "停车，确认安全再通过路口",
+      "image_path": "images/question_119.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ZapoDJkg.png"
+    },
+    {
+      "id": 120,
+      "question": "这个标志要求司机在什么时候将车速降到30km/h呢？",
+      "choices": [
+        "周末的黎明至黄昏",
+        "周一到周五的黎明至黄昏",
+        "每天的黎明至黄昏",
+        "在路上看到孩子的时候"
+      ],
+      "correct_answer": "每天的黎明至黄昏",
+      "image_path": "images/question_120.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/lnk3evQr.png"
+    },
+    {
+      "id": 121,
+      "question": "驾驶时如果跟前车的距离太近容易导致什么危险？",
+      "choices": [
+        "你无法看到前方的路况",
+        "你会让前车的司机感到紧张而超速",
+        "你会挡住前车的后视镜",
+        "你可能会位于前车的盲点中"
+      ],
+      "correct_answer": "你无法看到前方的路况",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 122,
+      "question": "如果你想鉴定和提高自己的驾驶技术，下列哪种方法是不可取的？",
+      "choices": [
+        "如果在路上遭遇了险情，是否反思为何会这样",
+        "看到别人的糟糕技术时，扪心自问是否自己也同样如此",
+        "找一个信任的朋友询问对方是如何评价自己的车技的",
+        "将自己的驾驶错误归咎于别人"
+      ],
+      "correct_answer": "将自己的驾驶错误归咎于别人",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 123,
+      "question": "下列哪种情况下是不能切换车道的？",
+      "choices": [
+        "车速低于50km/h的情况下",
+        "车速高于80km/h的情况下",
+        "在十字路口时",
+        "在医院周围"
+      ],
+      "correct_answer": "在十字路口时",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 124,
+      "question": "如果你已经无法避免撞上一头大型动物，那么在撞击前的瞬间松开刹车可以：",
+      "choices": [
+        "防止车子打滑",
+        "减少被撞的动物冲破挡风玻璃的机率",
+        "减轻对你车子的伤害",
+        "减少对被撞动物的伤害"
+      ],
+      "correct_answer": "减少被撞的动物冲破挡风玻璃的机率",
+      "image_path": "images/question_124.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/RjydD0yo.png"
+    },
+    {
+      "id": 125,
+      "question": "如果你在限速80km/h的高速路上遇到停下且闪着信号灯的紧急车辆，除了变线外，你需要减速到多少后才能从他们旁边驶过？",
+      "choices": [
+        "40km/h",
+        "70km/h",
+        "50km/h",
+        "60km/h"
+      ],
+      "correct_answer": "40km/h",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 126,
+      "question": "如图所示，在一个十字路口，车辆A和货车B都准备在绿灯时左转弯。那么，对于A车司机而言，哪个位置是最难观察到且容易隐藏危险的？",
+      "choices": [
+        "车辆A的右侧",
+        "车辆A的后方",
+        "车辆A左转后的路上",
+        "货车B的右侧"
+      ],
+      "correct_answer": "货车B的右侧",
+      "image_path": "images/question_126.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/dEybxmpn.png"
+    },
+    {
+      "id": 127,
+      "question": "大多数司机在路上变得急躁和暴怒是因为：",
+      "choices": [
+        "残破的路面",
+        "自己的破车动力不足",
+        "对所处的驾驶环境失去了耐心",
+        "其他人的烂技术"
+      ],
+      "correct_answer": "对所处的驾驶环境失去了耐心",
+      "image_path": "images/question_127.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/D3QZwzpO.png"
+    },
+    {
+      "id": 128,
+      "question": "如图所示，车辆B先到达停牌；那么谁有路权先行呢？",
+      "choices": [
+        "车辆A",
+        "车辆B",
+        "车辆B应该招手示意车辆A先走",
+        "两车可以同时走"
+      ],
+      "correct_answer": "车辆B",
+      "image_path": "images/question_128.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/LKQ5zWpz.png"
+    },
+    {
+      "id": 129,
+      "question": "什么是“惯性”？",
+      "choices": [
+        "一股力量使得所有的物体都会落到地面",
+        "可以让一个物体保持平衡",
+        "车子的重量",
+        "一种趋势使得物体持续沿直线前进"
+      ],
+      "correct_answer": "一种趋势使得物体持续沿直线前进",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 130,
+      "question": "如果在开车前你的情绪处于气愤或烦躁，你应该：",
+      "choices": [
+        "忘记那些影响自己情绪的事",
+        "在冷静下来之前不要开车",
+        "集中精力驾驶",
+        "深呼吸，重新控制自己的情绪"
+      ],
+      "correct_answer": "在冷静下来之前不要开车",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 131,
+      "question": "如果你在驾驶过程中感到困倦，应该怎么办？",
+      "choices": [
+        "将音响的声音调高，保持车速",
+        "打开窗子，保持车速",
+        "减速，小心驾驶",
+        "找个安全的地方停下来，锁好车门，休息一会再上路"
+      ],
+      "correct_answer": "找个安全的地方停下来，锁好车门，休息一会再上路",
+      "image_path": "images/question_131.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/NYyM2DQ0.png"
+    },
+    {
+      "id": 132,
+      "question": "如果你的车子在一条繁忙的高速公路上抛锚了，你不应该：",
+      "choices": [
+        "打开车子的紧急灯（双闪灯）",
+        "抬起车子的发动机盖子，留在车子旁边",
+        "在路旁修车",
+        "在车子后方防止用于提醒的反光标志或警示牌"
+      ],
+      "correct_answer": "在路旁修车",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 133,
+      "question": "如图所示，你是车辆B，绿灯直行。旁边车道的货车A即将右转弯，此时你应该注意的危险是什么？",
+      "choices": [
+        "货车B的车位可能会在转弯时滑向你所在的车道，因此你需要停车等候",
+        "货车B在转弯时需要更大的空间，甚至侵占你的部分车道，因此你需要减速避让",
+        "货车A可能会挡住正在横穿马路的行人",
+        "没什么可担心的"
+      ],
+      "correct_answer": "货车B在转弯时需要更大的空间，甚至侵占你的部分车道，因此你需要减速避让",
+      "image_path": "images/question_133.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/AqpeDdQl.png"
+    },
+    {
+      "id": 134,
+      "question": "如果你是一名持有 Learner's (L) 或 Novice Licence (N) 驾照的司机，那么在驾车时允许使用免提电话吗？",
+      "choices": [
+        "只有在白天才可以",
+        "只有在旁边监护人的情况下才可以",
+        "只有在该免提电话需要关闭和开启的时候才可以",
+        "任何时候都不能在驾驶中使用免提电话"
+      ],
+      "correct_answer": "任何时候都不能在驾驶中使用免提电话",
+      "image_path": "images/question_134.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/oNQOb2yq.png"
+    },
+    {
+      "id": 135,
+      "question": "在路口遇到下列哪种情况时，需要视为停牌一样处理：",
+      "choices": [
+        "闪烁的红灯",
+        "闪烁的黄灯",
+        "持续的黄灯",
+        "闪烁的绿灯"
+      ],
+      "correct_answer": "闪烁的红灯",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 136,
+      "question": "什么时候需要使用手势与其他司机沟通？",
+      "choices": [
+        "不应该使用，因为容易误导他人",
+        "只能在天气好的时候使用",
+        "当你的转向灯难以被其他司机看到时",
+        "只有骑着自行车/摩托车的人才需要使用"
+      ],
+      "correct_answer": "当你的转向灯难以被其他司机看到时",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 137,
+      "question": "什么情况下，你必须在看到校车时停车:",
+      "choices": [
+        "任何时候",
+        "当校车上的红灯闪烁时",
+        "当校车在校门前等候时",
+        "当孩子们正在登车时"
+      ],
+      "correct_answer": "当校车上的红灯闪烁时",
+      "image_path": "images/question_137.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/xnk68wQ1.png"
+    },
+    {
+      "id": 138,
+      "question": "许多车辆与列车相撞的事故都发生在夜间，这是因为：",
+      "choices": [
+        "行驶中的列车车身已经挡住了路口，而司机在夜间没能看到列车",
+        "疲劳驾驶",
+        "车辆没有开启车灯",
+        "天气状况"
+      ],
+      "correct_answer": "行驶中的列车车身已经挡住了路口，而司机在夜间没能看到列车",
+      "image_path": "images/question_138.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/JqQg5VkX.png"
+    },
+    {
+      "id": 139,
+      "question": "如图所示，如果你位于黄色实线的右侧，那么：",
+      "choices": [
+        "你不可以在这条路上超车",
+        "你可以从右侧超车",
+        "在安全的情况下，你可以越过黄色实线",
+        "任何情况下你都不可以左转弯"
+      ],
+      "correct_answer": "你不可以在这条路上超车",
+      "image_path": "images/question_139.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/5aQ2A3yD.png"
+    },
+    {
+      "id": 140,
+      "question": "如果你注意到前方一辆车在没理由的情况下摇摆不定或在路中央停车，你应该：",
+      "choices": [
+        "冲他鸣笛",
+        "跟着他直到对方的目的地",
+        "闪烁你的车灯并超过对方",
+        "增大与对方的车距，避免相撞"
+      ],
+      "correct_answer": "增大与对方的车距，避免相撞",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 141,
+      "question": "如图所示，车辆A即将离开高速公路的加速带，此时驾驶员应该首先做什么？",
+      "choices": [
+        "继续加速",
+        "减速",
+        "打手势高速其他车辆自己即将并入高速公路",
+        "观察自己的左侧及后方的车辆情况，找合适的时机并入高速公路"
+      ],
+      "correct_answer": "观察自己的左侧及后方的车辆情况，找合适的时机并入高速公路",
+      "image_path": "images/question_141.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WwQxJJkM.png"
+    },
+    {
+      "id": 142,
+      "question": "你行驶在一条窄路上，想要超越前方的一名骑自行车的人，你应该：",
+      "choices": [
+        "鸣笛，让他知道你要超车了",
+        "不要急于超车，等到较为笔直和宽阔的路段后再说；同时要尽量远离对方",
+        "不用在意，骑自行车的人应该给机动车让路",
+        "除非对方是在自行车专用道上骑车，否则你不可以超越他"
+      ],
+      "correct_answer": "不要急于超车，等到较为笔直和宽阔的路段后再说；同时要尽量远离对方",
+      "image_path": "images/question_142.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/q3yvdxpz.png"
+    },
+    {
+      "id": 143,
+      "question": "在你即将到达一个路口前，该路口的信号灯已经显示绿灯有一段时间了，此时你应该：",
+      "choices": [
+        "如果路口安全，加速冲过去",
+        "做好停车准备，信号灯可能即将改变",
+        "什么也不用做，因为那是绿灯",
+        "立刻刹车，因为信号灯要变了"
+      ],
+      "correct_answer": "做好停车准备，信号灯可能即将改变",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 144,
+      "question": "什么情况下，你不能超车：",
+      "choices": [
+        "你的视线被前车遮挡时",
+        "不熟悉的路段上",
+        "夜间，双向单车道",
+        "单行线，但是有多条车道"
+      ],
+      "correct_answer": "你的视线被前车遮挡时",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 145,
+      "question": "为什么在刚下雨时，有些路面会格外湿滑？",
+      "choices": [
+        "冰冷的雨水导致路面温度急速下降",
+        "因为车胎温度降低了",
+        "因为地面的雨水混杂了油污",
+        "雨水把路面洗干净了"
+      ],
+      "correct_answer": "因为地面的雨水混杂了油污",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 146,
+      "question": "如图所示，假如驾驶车辆A并且即将在路口右转，此时右后方有一骑车人。这种情况下，你会怎么想？",
+      "choices": [
+        "“我有个重要的会议要迟到了”，加速前进",
+        "“我有路权！”，鸣笛，转弯",
+        "“在我转弯时骑车人可能也会同时到达路口吧？”，减速慢行",
+        "“我肯定会比骑车人先到路口”，加速前进"
+      ],
+      "correct_answer": "“在我转弯时骑车人可能也会同时到达路口吧？”，减速慢行",
+      "image_path": "images/question_146.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/zJQGo6Q7.png"
+    },
+    {
+      "id": 147,
+      "question": "什么情况下你不需要将头扭过肩膀来查看盲点？",
+      "choices": [
+        "离开路旁时",
+        "判断你的跟车距离时",
+        "在路旁停车时",
+        "变线时"
+      ],
+      "correct_answer": "判断你的跟车距离时",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 148,
+      "question": "一辆停下来的公交车：",
+      "choices": [
+        "无法看到将要超过它的其他车辆",
+        "其他车辆需要停在它后面",
+        "开动前需要鸣笛",
+        "有可能挡住将要过马路的行人"
+      ],
+      "correct_answer": "有可能挡住将要过马路的行人",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 149,
+      "question": "与前车保持至少2秒钟的跟车距离是：",
+      "choices": [
+        "仅在不好的天气里",
+        "在市内良好的路况下",
+        "永远都要遵守",
+        "仅需在高速公路上"
+      ],
+      "correct_answer": "在市内良好的路况下",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 150,
+      "question": "如图所示，如果出现突发事故，哪辆车将没有空间躲避？",
+      "choices": [
+        "车辆C",
+        "车辆D",
+        "车辆B",
+        "车辆A"
+      ],
+      "correct_answer": "车辆A",
+      "image_path": "images/question_150.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/bqk9oeQK.png"
+    },
+    {
+      "id": 151,
+      "question": "为什么说在驾驶时保持较大的跟车距离是一个好主意？",
+      "choices": [
+        "这样可以避免给前车司机带来压力",
+        "这样可以让紧跟你的车辆减速以保持安全的车距",
+        "这样可以让你在突发状况时安全的停车，避免追尾",
+        "这样可以让跟在你后面的车更容易超越你"
+      ],
+      "correct_answer": "这样可以让你在突发状况时安全的停车，避免追尾",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 152,
+      "question": "作为司机，你应该：",
+      "choices": [
+        "市场检查道路两旁和车镜，同时要留意前方路况",
+        "无需查看车镜",
+        "注意观察你前面的车辆",
+        "注意观察你后面的车辆"
+      ],
+      "correct_answer": "市场检查道路两旁和车镜，同时要留意前方路况",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 153,
+      "question": "下列哪一项不属于在每次开车前都应该例行检查的内容：",
+      "choices": [
+        "检查散热片和发动机油箱",
+        "检查座位的安全带和头枕是否调整好了",
+        "检查侧镜和后视镜",
+        "检查车头灯和转向灯"
+      ],
+      "correct_answer": "检查散热片和发动机油箱",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 154,
+      "question": "在你准备超越一名骑车人时，你的车子应该距离他多远？",
+      "choices": [
+        "1米远",
+        "除非对方是在自行车专用道上骑车，否则你不可以超越他",
+        "无需调整你的车子，保持直线行驶即可",
+        "务求安全，1米以上"
+      ],
+      "correct_answer": "务求安全，1米以上",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 155,
+      "question": "如图所示，车辆B即将并入高速公路，此时车辆A应该怎么做？",
+      "choices": [
+        "保持车速，什么都不做",
+        "减速，鸣笛，招手让车辆B并入",
+        "减速让车辆B安全并入",
+        "加速前进到车辆B的前方"
+      ],
+      "correct_answer": "减速让车辆B安全并入",
+      "image_path": "images/question_155.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Eny11byL.png"
+    },
+    {
+      "id": 156,
+      "question": "为了确保行车时车子不偏离车道，你应该：",
+      "choices": [
+        "注意观察自己旁边的车辆，并与之维持距离",
+        "将注意力集中在前车的尾部",
+        "将注意力集中在自己所要前进的方向",
+        "多看车上的镜子"
+      ],
+      "correct_answer": "将注意力集中在自己所要前进的方向",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 157,
+      "question": "当车子在弯道中失去牵引力而有些失控时，你该怎么办？",
+      "choices": [
+        "轻点刹车以减速",
+        "狠踩刹车",
+        "反复轻踩油门来加速以便重新掌控车辆",
+        "加速"
+      ],
+      "correct_answer": "反复轻踩油门来加速以便重新掌控车辆",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 158,
+      "question": "为什么底盘高的车在弯道中行驶时更容易失去牵引力？",
+      "choices": [
+        "因为底盘高的车马力更大",
+        "因为底盘高的车重心更高",
+        "因为底盘高的车轮胎大",
+        "因为底盘高的车一般都体形大"
+      ],
+      "correct_answer": "因为底盘高的车重心更高",
+      "image_path": "images/question_158.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/36yRbnyz.png"
+    },
+    {
+      "id": 159,
+      "question": "驾车时与路上的骑自行车的人做眼神交流：",
+      "choices": [
+        "会让自己分心",
+        "是浪费感情",
+        "是一种很好的沟通",
+        "会让骑车人失去平衡"
+      ],
+      "correct_answer": "是一种很好的沟通",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 160,
+      "question": "在什么时候看到公交车后面挂有下面标志时，你需要让行：",
+      "choices": [
+        "在任何限速60km/h（或更低）的路段",
+        "仅在没有其它车辆跟在你后面时",
+        "任何时候都要让行公交车，不管限速是多少",
+        "在任何限速30km/h（或更低）的路段"
+      ],
+      "correct_answer": "在任何限速60km/h（或更低）的路段",
+      "image_path": "images/question_160.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/oPy87Wkn.png"
+    },
+    {
+      "id": 161,
+      "question": "在铁道路口闪烁的信号灯是什么颜色？",
+      "choices": [
+        "绿色和黄色",
+        "红色和绿色",
+        "红黄绿三色",
+        "红色"
+      ],
+      "correct_answer": "红色",
+      "image_path": "images/question_161.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/b1QPGayK.png"
+    },
+    {
+      "id": 162,
+      "question": "什么时候你会在铁道路口看到闪烁的绿色信号灯？",
+      "choices": [
+        "没有火车经过的时候",
+        "铁道路口根本就没有什么绿灯",
+        "火车刚驶过，示意等候中的车辆通行的时候",
+        "夜晚的时候"
+      ],
+      "correct_answer": "铁道路口根本就没有什么绿灯",
+      "image_path": "images/question_162.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WlQ7PXpo.png"
+    },
+    {
+      "id": 163,
+      "question": "为什么看到手持白色拐杖的行人（盲人）要额外小心？",
+      "choices": [
+        "他们在穿越街道时往往会很迟疑",
+        "他们听不到你鸣笛",
+        "他们不遵守交通规则",
+        "他们会从任何一点穿越街道"
+      ],
+      "correct_answer": "他们在穿越街道时往往会很迟疑",
+      "image_path": "images/question_163.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ZapoPJkg.png"
+    },
+    {
+      "id": 164,
+      "question": "如何在驾驶时提防危险状况的发生？",
+      "choices": [
+        "目不斜视",
+        "频繁观察周围的车流和路况",
+        "注意收听车内的交通广播",
+        "避免使用后视镜"
+      ],
+      "correct_answer": "频繁观察周围的车流和路况",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 165,
+      "question": "驾车时，如果在你左侧的路面上画着白色实线，表示：",
+      "choices": [
+        "你不能在该路段超车",
+        "这条路即将分为两个方向",
+        "只有公交车才能该路段超车",
+        "超车时要小心"
+      ],
+      "correct_answer": "你不能在该路段超车",
+      "image_path": "images/question_165.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/dEQ4RxkM.png"
+    },
+    {
+      "id": 166,
+      "question": "下列标志表示什么？",
+      "choices": [
+        "不要超越自行车",
+        "该路段可能有自行车",
+        "禁止骑自行车",
+        "前方有自行车"
+      ],
+      "correct_answer": "该路段可能有自行车",
+      "image_path": "images/question_166.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/6npLdzp8.png"
+    },
+    {
+      "id": 167,
+      "question": "遭遇恶劣天气和湿滑路面时，如果你正在高速公路上行驶，需要与前车保持至少多远的距离？",
+      "choices": [
+        "2秒钟",
+        "4秒钟",
+        "6秒钟",
+        "8秒钟"
+      ],
+      "correct_answer": "4秒钟",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 168,
+      "question": "你正在行驶的路段仅有两车道，此时后方车辆想要超过你；你该怎么办？",
+      "choices": [
+        "加速，防止他们超车",
+        "保持车速，在路肩上行驶以便给对方让路",
+        "减速，尽量留出空间让对方超越",
+        "保持车速，不用理他"
+      ],
+      "correct_answer": "减速，尽量留出空间让对方超越",
+      "image_path": "images/question_168.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Rjyd50Qo.png"
+    },
+    {
+      "id": 169,
+      "question": "如图所示，如果你是A车的司机，你会做怎样的考虑？",
+      "choices": [
+        "“B车跟得太紧，我要变线！”于是看准右车道的一个空隙，加速变线",
+        "“B车跟得太紧，我需要更多空间！”于是减速，渐渐与前车拉开距离",
+        "“B车跟得太紧，真讨厌！”于是突然踩刹车，给B车一个教训",
+        "“B车跟得太紧，我得快点开！”于是加速前进"
+      ],
+      "correct_answer": "“B车跟得太紧，我需要更多空间！”于是减速，渐渐与前车拉开距离",
+      "image_path": "images/question_169.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/2WyWD6QJ.png"
+    },
+    {
+      "id": 170,
+      "question": "下列标志表示什么？",
+      "choices": [
+        "公交车不得前进",
+        "所有车辆都要停车，紧急车辆即将通过该路口",
+        "看到公交车时需要让行",
+        "该信号亮起时，只有公交车可以通行"
+      ],
+      "correct_answer": "该信号亮起时，只有公交车可以通行",
+      "image_path": "images/question_170.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/dEybGmQn.png"
+    },
+    {
+      "id": 171,
+      "question": "下列标志表示什么？",
+      "choices": [
+        "公交车专用道",
+        "只有客车和出租车才能使用此道",
+        "只有客车和高承载（车内至少2人）车辆才能使用此道",
+        "只有客车才能使用此道"
+      ],
+      "correct_answer": "只有客车和高承载（车内至少2人）车辆才能使用此道",
+      "image_path": "images/question_171.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/D3QZdzkO.png"
+    },
+    {
+      "id": 172,
+      "question": "超速行驶是违法的，除非：",
+      "choices": [
+        "没有例外，任何时候都是违法的",
+        "除非你只是为了跟上车流",
+        "除非在超车时",
+        "除非在偏远和空旷的地区"
+      ],
+      "correct_answer": "没有例外，任何时候都是违法的",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 173,
+      "question": "在进入高速公路的加速带上行驶时，作为司机你应该：",
+      "choices": [
+        "只需看前方的道路即可",
+        "将车子提速到与高速公路内的其他车辆相同的程度",
+        "注意看后视镜",
+        "打转向灯，并入车流"
+      ],
+      "correct_answer": "将车子提速到与高速公路内的其他车辆相同的程度",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 174,
+      "question": "如图所示，一个亮起的绿色箭头表示：",
+      "choices": [
+        "箭头所指的道路是一条单行道",
+        "在该路口你只能左转",
+        "先完全停车，然后可以按箭头所指的方向转弯",
+        "可以按箭头所指的方向转弯，只要路口安全"
+      ],
+      "correct_answer": "可以按箭头所指的方向转弯，只要路口安全",
+      "image_path": "images/question_174.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/GAyjY4kq.png"
+    },
+    {
+      "id": 175,
+      "question": "如图所示，B车想要左转；此时对于自行车A来说，最大的危险是什么？",
+      "choices": [
+        "车C可能会撞到自行车A",
+        "行人可能会挡住自行车A的道路",
+        "车B可能会因为没有看到自行车A而在转弯时挡住自行车A",
+        "车D将要左转"
+      ],
+      "correct_answer": "车B可能会因为没有看到自行车A而在转弯时挡住自行车A",
+      "image_path": "images/question_175.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/NYyM1Dy0.png"
+    },
+    {
+      "id": 176,
+      "question": "如图所示，车A应该怎么做？",
+      "choices": [
+        "当行人踏上人行道时，停车",
+        "减速并停车",
+        "鸣笛警告行人",
+        "加速，赶在行人踏上人行道前通过"
+      ],
+      "correct_answer": "减速并停车",
+      "image_path": "images/question_176.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WmQYKMkd.png"
+    },
+    {
+      "id": 177,
+      "question": "路的中间有断续的线是代表：",
+      "choices": [
+        "不能超越",
+        "随时可以超越",
+        "在日间才可以超越",
+        "可以超越，如果安全的话"
+      ],
+      "correct_answer": "可以超越，如果安全的话",
+      "image_path": "images/question_177.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/AqpeYdpl.png"
+    },
+    {
+      "id": 178,
+      "question": "这个标志表示？",
+      "choices": [
+        "禁止停留",
+        "这是一条自行车道，请小心与骑车的人分享道路",
+        "禁止停车",
+        "禁止自行车在这条路上通行"
+      ],
+      "correct_answer": "这是一条自行车道，请小心与骑车的人分享道路",
+      "image_path": "images/question_178.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/oNQOE2kq.png"
+    },
+    {
+      "id": 179,
+      "question": "这个标志表示？",
+      "choices": [
+        "不可停车",
+        "与对面车辆分享道路",
+        "路面湿时很滑",
+        "小心驾驶"
+      ],
+      "correct_answer": "与对面车辆分享道路",
+      "image_path": "images/question_179.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/X2ymVdQw.png"
+    },
+    {
+      "id": 180,
+      "question": "这个标志表示？",
+      "choices": [
+        "在指定时间及日期，是不准驶入的",
+        "在指定时间及日期，巴士是不能在专线行驶的",
+        "这条路仅限专线车辆，如巴士、的士、脚踏车及车上有三名乘客以上在在指定时间、日期专用",
+        "在指定时间及日期，是不能停车的"
+      ],
+      "correct_answer": "这条路仅限专线车辆，如巴士、的士、脚踏车及车上有三名乘客以上在在指定时间、日期专用",
+      "image_path": "images/question_180.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/1VQqq5QY.png"
+    },
+    {
+      "id": 181,
+      "question": "这个标志表示？",
+      "choices": [
+        "两条路将合并为一条路",
+        "前方两条路被关闭了",
+        "有两条快车线的高速公路",
+        "当车内有两名或两名以上乘客时，可以使用这条路"
+      ],
+      "correct_answer": "当车内有两名或两名以上乘客时，可以使用这条路",
+      "image_path": "images/question_181.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/xnk67wy1.png"
+    },
+    {
+      "id": 182,
+      "question": "这个标志表示？",
+      "choices": [
+        "卡车专用线路",
+        "卡车到此需减速",
+        "前方道路右侧有可能卡车驶入",
+        "禁止卡车通行"
+      ],
+      "correct_answer": "前方道路右侧有可能卡车驶入",
+      "image_path": "images/question_182.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/JqQgYVkX.png"
+    },
+    {
+      "id": 183,
+      "question": "这个标志表示？",
+      "choices": [
+        "注意观察信号灯",
+        "小心行人",
+        "不要减速",
+        "不要阻塞路口"
+      ],
+      "correct_answer": "不要阻塞路口",
+      "image_path": "images/question_183.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/5aQ2R3QD.png"
+    },
+    {
+      "id": 184,
+      "question": "这个标志表示？",
+      "choices": [
+        "十字路口，不准驶入",
+        "不准停车",
+        "停牌所指示的方向一定要停",
+        "停牌所指示的方向不需要停"
+      ],
+      "correct_answer": "不准停车",
+      "image_path": "images/question_184.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Ney0AMQ3.png"
+    },
+    {
+      "id": 185,
+      "question": "绿色圈的意思是？",
+      "choices": [
+        "货车路线",
+        "准许的路牌",
+        "大货车的路线",
+        "不准货车"
+      ],
+      "correct_answer": "准许的路牌",
+      "image_path": "images/question_185.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WwQxmJpM.png"
+    },
+    {
+      "id": 186,
+      "question": "这个标志表示？",
+      "choices": [
+        "不准超车",
+        "隐蔽的十字路口在前",
+        "右线终止",
+        "你正接近一个斜坡"
+      ],
+      "correct_answer": "不准超车",
+      "image_path": "images/question_186.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/q3yvxxpz.png"
+    },
+    {
+      "id": 187,
+      "question": "这个标志表示？（红圈）",
+      "choices": [
+        "禁止路牌",
+        "代表前面有一交通圈",
+        "不准驶入此路",
+        "不准驶入除非区内居民"
+      ],
+      "correct_answer": "禁止路牌",
+      "image_path": "images/question_187.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/JwQJ2oQN.png"
+    },
+    {
+      "id": 188,
+      "question": "这个标志表示？",
+      "choices": [
+        "隐蔽的十字路口在前",
+        "弯曲路在前",
+        "路湿时很滑",
+        "窄路在前"
+      ],
+      "correct_answer": "弯曲路在前",
+      "image_path": "images/question_188.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/KvprVqpr.png"
+    },
+    {
+      "id": 189,
+      "question": "这个标志表示？",
+      "choices": [
+        "这是一条卡车专用道",
+        "这是一条自行车专用道",
+        "自行车禁止通行",
+        "这是一条公交车专用道"
+      ],
+      "correct_answer": "这是一条自行车专用道",
+      "image_path": "images/question_189.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/54kB2dkm.png"
+    },
+    {
+      "id": 190,
+      "question": "这个标志表示？",
+      "choices": [
+        "分叉公路完结",
+        "分叉公路在前",
+        "公路在修理中",
+        "窄桥在前"
+      ],
+      "correct_answer": "分叉公路在前",
+      "image_path": "images/question_190.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/zJQGn6y7.png"
+    },
+    {
+      "id": 191,
+      "question": "这个标志表示？",
+      "choices": [
+        "前方有学校人行道，请遵守交通协勤人员的指挥",
+        "禁止通行",
+        "小心残疾人",
+        "轮椅通道"
+      ],
+      "correct_answer": "前方有学校人行道，请遵守交通协勤人员的指挥",
+      "image_path": "images/question_191.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/LnQnYeyx.png"
+    },
+    {
+      "id": 192,
+      "question": "这个标志表示？",
+      "choices": [
+        "轮椅或残疾人专用停车位",
+        "前方有连续的弯路",
+        "禁止停车",
+        "禁止驻留"
+      ],
+      "correct_answer": "轮椅或残疾人专用停车位",
+      "image_path": "images/question_192.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/3nkwVPpe.png"
+    },
+    {
+      "id": 193,
+      "question": "这个标志表示？",
+      "choices": [
+        "凹凸路或不平坦的路",
+        "修路地区",
+        "工厂在前，慢驶",
+        "桥或桥梁"
+      ],
+      "correct_answer": "凹凸路或不平坦的路",
+      "image_path": "images/question_193.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/wBparYk7.png"
+    },
+    {
+      "id": 194,
+      "question": "这个标志表示？",
+      "choices": [
+        "你不能在所示的时间段内停车",
+        "仅允许在周末时停车",
+        "禁止停车",
+        "你可以在所示的时间段内停车"
+      ],
+      "correct_answer": "你可以在所示的时间段内停车",
+      "image_path": "images/question_194.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/bqk94epK.png"
+    },
+    {
+      "id": 195,
+      "question": "这个标志表示？",
+      "choices": [
+        "前方路面颠簸",
+        "小心滑落的石块",
+        "货车限高",
+        "前方是学校区"
+      ],
+      "correct_answer": "货车限高",
+      "image_path": "images/question_195.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/vMQNA1y6.png"
+    },
+    {
+      "id": 196,
+      "question": "这个标志表示？",
+      "choices": [
+        "消防站",
+        "施工区域",
+        "这里可能有水漫过路面",
+        "禁止驶入"
+      ],
+      "correct_answer": "这里可能有水漫过路面",
+      "image_path": "images/question_196.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/1xyXLDyd.png"
+    },
+    {
+      "id": 197,
+      "question": "这个标志表示？",
+      "choices": [
+        "去往机场的路",
+        "前方有飞行表演",
+        "飞机准备着陆",
+        "以上都不对"
+      ],
+      "correct_answer": "去往机场的路",
+      "image_path": "images/question_197.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/xVQDxeQm.png"
+    },
+    {
+      "id": 198,
+      "question": "这个标志表示？",
+      "choices": [
+        "小心行人，与他们分享道路",
+        "前方有勘测队",
+        "前方道路施工",
+        "前方有交通管制人员，慢行注意嘹望路口的状况"
+      ],
+      "correct_answer": "前方有勘测队",
+      "image_path": "images/question_198.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/3rpl2Lyl.png"
+    },
+    {
+      "id": 199,
+      "question": "这个标志表示？",
+      "choices": [
+        "窄路在前",
+        "前面的路转左然后转右",
+        "十字路口在前",
+        "前面的路转右然后转左"
+      ],
+      "correct_answer": "前面的路转右然后转左",
+      "image_path": "images/question_199.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Eny1EbyL.png"
+    },
+    {
+      "id": 200,
+      "question": "这个标志表示？",
+      "choices": [
+        "在标志所示的时间段内禁止左转",
+        "禁止 U 型转，除非在标志所示的时间段内",
+        "禁止左转，除非在标志所示的时间段内",
+        "此路口禁止左转"
+      ],
+      "correct_answer": "在标志所示的时间段内禁止左转",
+      "image_path": "images/question_200.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ZMQA2dpK.png"
+    },
+    {
+      "id": 201,
+      "question": "这个标志表示？",
+      "choices": [
+        "禁止自行车通行",
+        "学校区",
+        "路面颠簸",
+        "不要在此区域逗留"
+      ],
+      "correct_answer": "不要在此区域逗留",
+      "image_path": "images/question_201.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/v7pE20k5.png"
+    },
+    {
+      "id": 202,
+      "question": "这个标志表示？",
+      "choices": [
+        "行驶缓慢的车辆上路时必须显示这个标志，除非该车辆仅仅是短暂穿过一条路",
+        "这条路是专门为缓慢行驶的车辆设计的",
+        "前方有信号灯",
+        "行驶缓慢的车辆上路时必须显示这个标志"
+      ],
+      "correct_answer": "行驶缓慢的车辆上路时必须显示这个标志，除非该车辆仅仅是短暂穿过一条路",
+      "image_path": "images/question_202.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/36yR8npz.png"
+    },
+    {
+      "id": 203,
+      "question": "这个标志表示？",
+      "choices": [
+        "在路肩上行驶时的最高安全速度",
+        "最高限速",
+        "安全起见，该路段建议以该速度行驶",
+        "在施工区域的建议速度"
+      ],
+      "correct_answer": "安全起见，该路段建议以该速度行驶",
+      "image_path": "images/question_203.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/VgQz1RyX.png"
+    },
+    {
+      "id": 204,
+      "question": "这个标志表示？",
+      "choices": [
+        "雪地摩托有可能横穿这条路",
+        "雪地摩托不允许在这条路上行驶",
+        "这是一条官方的雪地摩托专用线路",
+        "前方有越野车辆"
+      ],
+      "correct_answer": "雪地摩托有可能横穿这条路",
+      "image_path": "images/question_204.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/oPy83Wkn.png"
+    },
+    {
+      "id": 205,
+      "question": "这个标志表示？",
+      "choices": [
+        "前面时速每小时最高可达五十公里",
+        "由此牌至下一路牌，最高时速五十公里",
+        "乡村、学校区内的限速",
+        "距离下一个城市还有五十公里"
+      ],
+      "correct_answer": "前面时速每小时最高可达五十公里",
+      "image_path": "images/question_205.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/b1QPRakK.png"
+    },
+    {
+      "id": 206,
+      "question": "这个标志表示？",
+      "choices": [
+        "不准左转",
+        "你不能掉头（或U转）",
+        "路湿时很滑",
+        "不准右转"
+      ],
+      "correct_answer": "你不能掉头（或U转）",
+      "image_path": "images/question_206.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WlQ7oXQo.png"
+    },
+    {
+      "id": 207,
+      "question": "这个标志表示？",
+      "choices": [
+        "行人斑马线在前",
+        "你正接近一个斜坡",
+        "隐蔽的十字路口在前",
+        "右线终止"
+      ],
+      "correct_answer": "右线终止",
+      "image_path": "images/question_207.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ZapoVJQg.png"
+    },
+    {
+      "id": 208,
+      "question": "这个标志表示？",
+      "choices": [
+        "窄桥在前",
+        "十字路口在前",
+        "前方道路完结",
+        "道路在前方分叉"
+      ],
+      "correct_answer": "窄桥在前",
+      "image_path": "images/question_208.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/lnk3zvpr.png"
+    },
+    {
+      "id": 209,
+      "question": "这个标志表示？",
+      "choices": [
+        "当接近别的车辆时才需要停车",
+        "停牌在前面150米",
+        "任何时间都必须停车",
+        "前面120米处路面不平整"
+      ],
+      "correct_answer": "任何时间都必须停车",
+      "image_path": "images/question_209.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/dEQ48xQM.png"
+    },
+    {
+      "id": 210,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "右侧离开",
+        "弯曲路在前",
+        "前方有斑马线",
+        "急转弯提示"
+      ],
+      "correct_answer": "急转弯提示",
+      "image_path": "images/question_210.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/6npLvzy8.png"
+    },
+    {
+      "id": 211,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "行人和车辆不能进入该路段",
+        "前方有铁路口",
+        "前方有鹿穿行",
+        "这是供行人使用的人行道，准备停车礼让行人"
+      ],
+      "correct_answer": "这是供行人使用的人行道，准备停车礼让行人",
+      "image_path": "images/question_211.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Eny1E8yL.png"
+    },
+    {
+      "id": 212,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "允许超车",
+        "货车专用道",
+        "可以停车",
+        "危险品专用道"
+      ],
+      "correct_answer": "危险品专用道",
+      "image_path": "images/question_212.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ZMQA2GpK.png"
+    },
+    {
+      "id": 213,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "前方是山区",
+        "前方有“Y”型路口",
+        "前方有桥",
+        "狭窄的道路"
+      ],
+      "correct_answer": "前方有“Y”型路口",
+      "image_path": "images/question_213.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/v7pE2ok5.png"
+    },
+    {
+      "id": 214,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "可以右转",
+        "弯曲路在前",
+        "只能右转",
+        "前方道路有些弯曲"
+      ],
+      "correct_answer": "前方道路有些弯曲",
+      "image_path": "images/question_214.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/36yR8Gpz.png"
+    },
+    {
+      "id": 215,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "前方有校区",
+        "自行车可以在此停车",
+        "可能有动物穿越该路段",
+        "雪地摩托可能穿越该路段"
+      ],
+      "correct_answer": "雪地摩托可能穿越该路段",
+      "image_path": "images/question_215.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/VgQzo6pX.png"
+    },
+    {
+      "id": 216,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "危险品不得进入该路段",
+        "不要穿越该路段",
+        "不得停车",
+        "不要进入该路段"
+      ],
+      "correct_answer": "危险品不得进入该路段",
+      "image_path": "images/question_216.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/oPy89gQn.png"
+    },
+    {
+      "id": 217,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "只能左转",
+        "前方道路向左弯曲",
+        "不要左转",
+        "前方有急弯"
+      ],
+      "correct_answer": "前方道路向左弯曲",
+      "image_path": "images/question_217.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/b1QPWDyK.png"
+    },
+    {
+      "id": 218,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "这里开始是施工区了",
+        "前方在修路",
+        "前方一公里处在施工",
+        "前方道路封闭"
+      ],
+      "correct_answer": "前方一公里处在施工",
+      "image_path": "images/question_218.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WlQ72Nyo.png"
+    },
+    {
+      "id": 219,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "注意行人，与他们分享道路",
+        "只允许行人通过",
+        "禁止行人通过",
+        "前方是校区"
+      ],
+      "correct_answer": "注意行人，与他们分享道路",
+      "image_path": "images/question_219.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ZapoMOyg.png"
+    },
+    {
+      "id": 220,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "前方有铁路",
+        "前方有路口",
+        "前方为双向路",
+        "前方道路变窄"
+      ],
+      "correct_answer": "前方为双向路",
+      "image_path": "images/question_220.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/lnk3mrQr.png"
+    },
+    {
+      "id": 221,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "前方只允许自行车通行",
+        "自行车可以在此停车",
+        "前方禁止自行车通行",
+        "前方有自行车穿行"
+      ],
+      "correct_answer": "前方有自行车穿行",
+      "image_path": "images/question_221.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/dEQ4YNpM.png"
+    },
+    {
+      "id": 222,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "你可以将自行车放在这里",
+        "不要将自行车停放在这里",
+        "该路段禁止自行车通行",
+        "禁止自行车通行，除非你有许可证"
+      ],
+      "correct_answer": "该路段禁止自行车通行",
+      "image_path": "images/question_222.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/6npL45p8.png"
+    },
+    {
+      "id": 223,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "前方有铁路",
+        "前方是死路",
+        "施工区",
+        "不要停车"
+      ],
+      "correct_answer": "前方是死路",
+      "image_path": "images/question_223.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ngpK3wpw.png"
+    },
+    {
+      "id": 224,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "右路变窄",
+        "右侧是弯路",
+        "不要右转",
+        "前方有急转弯"
+      ],
+      "correct_answer": "前方有急转弯",
+      "image_path": "images/question_224.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/RjydMAQo.png"
+    },
+    {
+      "id": 225,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "禁止停车",
+        "死路",
+        "你正在逆行",
+        "不要停车"
+      ],
+      "correct_answer": "你正在逆行",
+      "image_path": "images/question_225.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/2WyW87QJ.png"
+    },
+    {
+      "id": 226,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "前方有桥",
+        "前方路段没有铺设柏油",
+        "前方有路口",
+        "前方道路变窄"
+      ],
+      "correct_answer": "前方路段没有铺设柏油",
+      "image_path": "images/question_226.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/dEybldpn.png"
+    },
+    {
+      "id": 227,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "前方是“T”型路口",
+        "前路变窄",
+        "前方是“Y”型路口",
+        "弯曲路在前"
+      ],
+      "correct_answer": "前方是“T”型路口",
+      "image_path": "images/question_227.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/D3QZl6kO.png"
+    },
+    {
+      "id": 228,
+      "question": "这个标志是什么意思：",
+      "choices": [
+        "请跟随闪烁的箭头标志转向",
+        "只能右转",
+        "不要右转",
+        "只能左转"
+      ],
+      "correct_answer": "请跟随闪烁的箭头标志转向",
+      "image_path": "images/question_228.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/LKQ5e2Qz.png"
+    },
+    {
+      "id": 229,
+      "question": "这个标志表示？",
+      "choices": [
+        "禁止车辆通行",
+        "小心滑落的石块",
+        "前方有陡坡",
+        "禁止卡车通行"
+      ],
+      "correct_answer": "小心滑落的石块",
+      "image_path": "images/question_229.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/mgkVzVkX.png"
+    },
+    {
+      "id": 230,
+      "question": "这个标志表示？",
+      "choices": [
+        "前面有安全检查",
+        "警告斜坡在前",
+        "路在前方500米处终止",
+        "前方路面不平"
+      ],
+      "correct_answer": "警告斜坡在前",
+      "image_path": "images/question_230.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/GAyjMYkq.png"
+    },
+    {
+      "id": 231,
+      "question": "这个标志表示？",
+      "choices": [
+        "丘陵",
+        "住宅",
+        "医院",
+        "赛马场"
+      ],
+      "correct_answer": "医院",
+      "image_path": "images/question_231.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/NYyMLLk0.png"
+    },
+    {
+      "id": 232,
+      "question": "这个标志表示？",
+      "choices": [
+        "让有优先权者先行",
+        "前面是路的尽头",
+        "停牌在前",
+        "慢行的车辆在前"
+      ],
+      "correct_answer": "停牌在前",
+      "image_path": "images/question_232.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WmQY7bkd.png"
+    },
+    {
+      "id": 233,
+      "question": "这个标志表示？",
+      "choices": [
+        "分叉公路结束或接合",
+        "红灯时不可右转",
+        "不可右转",
+        "窄桥在前"
+      ],
+      "correct_answer": "红灯时不可右转",
+      "image_path": "images/question_233.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Aqpemjpl.png"
+    },
+    {
+      "id": 234,
+      "question": "这个标志表示？",
+      "choices": [
+        "公路终止，你一定要转右线行驶",
+        "两边转左线",
+        "在任何情形下，你不能在右线行驶",
+        "如果你保持在右线行驶，你可以驶出此公路"
+      ],
+      "correct_answer": "两边转左线",
+      "image_path": "images/question_234.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/oNQOdqpq.png"
+    },
+    {
+      "id": 235,
+      "question": "这个标志表示？",
+      "choices": [
+        "前方道路右侧有卡车入口",
+        "两条去往同一目的地的道路即将合并，司机要小心驾驶准备车流交会",
+        "前方有铁道路口",
+        "前方有岔路，司机的视线可能受阻，注意嘹望"
+      ],
+      "correct_answer": "前方有岔路，司机的视线可能受阻，注意嘹望",
+      "image_path": "images/question_235.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/X2ymMJyw.png"
+    },
+    {
+      "id": 236,
+      "question": "这个标志表示？",
+      "choices": [
+        "靠左行驶",
+        "不准驶入",
+        "靠右行驶",
+        "不准超越"
+      ],
+      "correct_answer": "不准驶入",
+      "image_path": "images/question_236.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/1VQqM1QY.png"
+    },
+    {
+      "id": 237,
+      "question": "这个标志表示？",
+      "choices": [
+        "禁止行人通过",
+        "禁止自行车通过",
+        "禁止儿童通过",
+        "只允许狗通过"
+      ],
+      "correct_answer": "禁止行人通过",
+      "image_path": "images/question_237.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/xnk69Dp1.png"
+    },
+    {
+      "id": 238,
+      "question": "这个标志表示？",
+      "choices": [
+        "危险，急转弯",
+        "靠左驾驶",
+        "弯曲路在前",
+        "危险，路的尽头"
+      ],
+      "correct_answer": "危险，急转弯",
+      "image_path": "images/question_238.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/JqQgM0kX.png"
+    },
+    {
+      "id": 239,
+      "question": "这个标志表示？",
+      "choices": [
+        "隐蔽的路口",
+        "禁止左转",
+        "道路合并，小心车流交汇",
+        "禁止 U 型转"
+      ],
+      "correct_answer": "道路合并，小心车流交汇",
+      "image_path": "images/question_239.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/5aQ2YGyD.png"
+    },
+    {
+      "id": 240,
+      "question": "这个标志表示？",
+      "choices": [
+        "此线准许各方向转弯包括左转",
+        "特别警告危险",
+        "此线只能右转",
+        "从箭头的指示至角落，不准泊车"
+      ],
+      "correct_answer": "此线只能右转",
+      "image_path": "images/question_240.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Ney0wRk3.png"
+    },
+    {
+      "id": 241,
+      "question": "这个标志表示？",
+      "choices": [
+        "火车路在前",
+        "交通灯在前",
+        "不平路在前面120米",
+        "停牌在前面150米"
+      ],
+      "correct_answer": "交通灯在前",
+      "image_path": "images/question_241.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WwQxPaQM.png"
+    },
+    {
+      "id": 242,
+      "question": "这个标志表示？",
+      "choices": [
+        "前方有雪地摩托修理店",
+        "只允许雪地摩托停车",
+        "雪地摩托可以使用该车道",
+        "雪地摩托不能使用该车道"
+      ],
+      "correct_answer": "雪地摩托可以使用该车道",
+      "image_path": "images/question_242.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/q3yvzlyz.png"
+    },
+    {
+      "id": 243,
+      "question": "这个标志表示？",
+      "choices": [
+        "可以停车",
+        "残疾人不能在此停车",
+        "禁止停车",
+        "仅供有残疾人士许可证的车辆停车"
+      ],
+      "correct_answer": "仅供有残疾人士许可证的车辆停车",
+      "image_path": "images/question_243.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/JwQJoKpN.png"
+    },
+    {
+      "id": 244,
+      "question": "这个标志表示？",
+      "choices": [
+        "靠安全岛的右面驶过",
+        "路转右然后转左",
+        "在其他车辆右面驶过",
+        "弯曲路在前"
+      ],
+      "correct_answer": "靠安全岛的右面驶过",
+      "image_path": "images/question_244.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Kvpr1vQr.png"
+    },
+    {
+      "id": 245,
+      "question": "这个标志表示？",
+      "choices": [
+        "警告，前方有公路修理工程",
+        "限行标志，禁止驶入该路段",
+        "前方的路面没有铺设柏油",
+        "限制路牌，需要减速"
+      ],
+      "correct_answer": "警告，前方有公路修理工程",
+      "image_path": "images/question_245.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/54kB16pm.png"
+    },
+    {
+      "id": 246,
+      "question": "这个标志表示？",
+      "choices": [
+        "游乐场的路牌",
+        "儿童在住宅区玩耍",
+        "指示儿童的路牌",
+        "学校区的路牌"
+      ],
+      "correct_answer": "学校区的路牌",
+      "image_path": "images/question_246.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/zJQG8Op7.png"
+    },
+    {
+      "id": 247,
+      "question": "这个标志表示？",
+      "choices": [
+        "隐藏路在前",
+        "窄路在前",
+        "火车路在前",
+        "十字路口在前"
+      ],
+      "correct_answer": "十字路口在前",
+      "image_path": "images/question_247.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/LnQn2OQx.png"
+    },
+    {
+      "id": 248,
+      "question": "这个标志表示？",
+      "choices": [
+        "弯曲路在前",
+        "不准超车",
+        "前方路面不平整",
+        "前方路面在雨雪天气时湿滑"
+      ],
+      "correct_answer": "前方路面在雨雪天气时湿滑",
+      "image_path": "images/question_248.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/3nkw8Lye.png"
+    },
+    {
+      "id": 249,
+      "question": "这个标志表示？",
+      "choices": [
+        "有操场的学校",
+        "校园区",
+        "慢行，前方有校车站点；在校巴闪烁红灯时小心上下车的儿童",
+        "隐蔽的路口"
+      ],
+      "correct_answer": "慢行，前方有校车站点；在校巴闪烁红灯时小心上下车的儿童",
+      "image_path": "images/question_249.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/wBpabak7.png"
+    },
+    {
+      "id": 250,
+      "question": "这个标志表示？",
+      "choices": [
+        "隐蔽的十字路口在前",
+        "你不能左传",
+        "你只能右转",
+        "你正在接近一个安全岛"
+      ],
+      "correct_answer": "你不能左传",
+      "image_path": "images/question_250.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/bqk9YXkK.png"
+    },
+    {
+      "id": 251,
+      "question": "这个标志表示？",
+      "choices": [
+        "见到动物不能按喇叭",
+        "动物园在前",
+        "留心动物，鹿有时穿过该路段",
+        "鹿群欢迎您"
+      ],
+      "correct_answer": "留心动物，鹿有时穿过该路段",
+      "image_path": "images/question_251.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/vMQNKGp6.png"
+    },
+    {
+      "id": 252,
+      "question": "这个标志表示？",
+      "choices": [
+        "你正在接近斑马线",
+        "你正在接近医院",
+        "你接近一十字路口",
+        "你正在接近一条铁轨"
+      ],
+      "correct_answer": "你正在接近一条铁轨",
+      "image_path": "images/question_252.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/1xyXPvyd.png"
+    },
+    {
+      "id": 253,
+      "question": "这个标志表示？",
+      "choices": [
+        "分叉公路结束，保持在右线行驶",
+        "分叉公路在前",
+        "窄桥在前",
+        "公路在修理中"
+      ],
+      "correct_answer": "分叉公路结束，保持在右线行驶",
+      "image_path": "images/question_253.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/xVQDEopm.png"
+    },
+    {
+      "id": 254,
+      "question": "这个标志表示？",
+      "choices": [
+        "分叉公路在前",
+        "你正接近一条单程路",
+        "隐藏路口在前",
+        "前方路面变窄"
+      ],
+      "correct_answer": "前方路面变窄",
+      "image_path": "images/question_254.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/3rplMnkl.png"
+    },
+    {
+      "id": 255,
+      "question": "这个标志表示？",
+      "choices": [
+        "学校区域小心儿童玩耍",
+        "目的地指示牌",
+        "行人路牌",
+        "省公园"
+      ],
+      "correct_answer": "目的地指示牌",
+      "image_path": "images/question_255.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/Eny128QL.png"
+    },
+    {
+      "id": 256,
+      "question": "这个标志表示？",
+      "choices": [
+        "前方有可以升降的桥梁以便船舶通过",
+        "前方道路变窄",
+        "机场",
+        "宾馆"
+      ],
+      "correct_answer": "前方有可以升降的桥梁以便船舶通过",
+      "image_path": "images/question_256.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/ZMQANGpK.png"
+    },
+    {
+      "id": 257,
+      "question": "这个标志表示？",
+      "choices": [
+        "禁止停车",
+        "禁止左转",
+        "小心，前方有自行车穿行",
+        "禁止行车通行"
+      ],
+      "correct_answer": "小心，前方有自行车穿行",
+      "image_path": "images/question_257.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/v7pERok5.png"
+    },
+    {
+      "id": 258,
+      "question": "这个标志表示？",
+      "choices": [
+        "不可接近",
+        "新婴儿在车上",
+        "新车",
+        "新手司机，初学者"
+      ],
+      "correct_answer": "新手司机，初学者",
+      "image_path": "images/question_258.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/36yR1Gkz.png"
+    },
+    {
+      "id": 259,
+      "question": "这个标志表示？",
+      "choices": [
+        "单行线",
+        "行驶在这条路上的车辆必须右转",
+        "前方有急弯",
+        "保持在交通岛的右侧行驶"
+      ],
+      "correct_answer": "单行线",
+      "image_path": "images/question_259.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/VgQzD6kX.png"
+    },
+    {
+      "id": 260,
+      "question": "这个标志表示？",
+      "choices": [
+        "公路终止，你一定要转右线行驶",
+        "如果你保持在右线行驶，你可以驶出此公路",
+        "如果你保持在右线行驶，你一定要驶出此公路",
+        "在任何情形下，你不能在右线行驶"
+      ],
+      "correct_answer": "如果你保持在右线行驶，你一定要驶出此公路",
+      "image_path": "images/question_260.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/oPy8agQn.png"
+    },
+    {
+      "id": 261,
+      "question": "这个标志表示？",
+      "choices": [
+        "警示！向下螺旋线所指的那一侧相对安全",
+        "警示！向下螺旋线所指的那一侧可能有危险",
+        "前方是休息区",
+        "前方有购物区"
+      ],
+      "correct_answer": "警示！向下螺旋线所指的那一侧相对安全",
+      "image_path": "images/question_261.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/b1QPPDQK.png"
+    },
+    {
+      "id": 262,
+      "question": "这个标志表示？",
+      "choices": [
+        "禁止直行",
+        "禁止右转",
+        "禁止左转",
+        "可以直行"
+      ],
+      "correct_answer": "禁止直行",
+      "image_path": "images/question_262.png",
+      "image_url": "https://bc.driver-test.com/./pics/BC/WlQ7xNpo.png"
+    },
+    {
+      "id": 263,
+      "question": "关于开车时使用手机，下列哪一项是正确的?",
+      "choices": [
+        "所有司机都可以使用手持设备发短信",
+        "驾驶员可以使用手持手机拨打9-1-1的电话",
+        "有经验的司机可以使用手持设备",
+        "GLP司机可以使用免提手机"
+      ],
+      "correct_answer": "驾驶员可以使用手持手机拨打9-1-1的电话",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 264,
+      "question": "车辆在十字路口可能会遇到什么紧急问题?",
+      "choices": [
+        "交通标志过多",
+        "行人穿越马路",
+        "接近十字路口处有隔离带",
+        "卡车有优先权"
+      ],
+      "correct_answer": "行人穿越马路",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 265,
+      "question": "以下哪些区域是发生碰撞的多发地段？",
+      "choices": [
+        "管控路口",
+        "保留车道",
+        "双实线车道",
+        "没有管控的路口"
+      ],
+      "correct_answer": "没有管控的路口",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 266,
+      "question": "当驾驶过程中发生意外危险时，司机应怎样做?",
+      "choices": [
+        "停止引擎",
+        "立即掉头",
+        "把车开到左边车道",
+        "使用紧急制动"
+      ],
+      "correct_answer": "使用紧急制动",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 267,
+      "question": "以下标志是什么意思？",
+      "choices": [
+        "禁止公共汽车和汽车",
+        "包括公交车在内的HOV车辆必须在这里让路",
+        "禁止停车",
+        "禁止卡车"
+      ],
+      "correct_answer": "禁止卡车",
+      "image_path": "images/question_267.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1578466937.svg"
+    },
+    {
+      "id": 268,
+      "question": "如果驾驶员听到或看到火车正在驶近交叉口，则必须执行以下操作：",
+      "choices": [
+        "以最快的速度越过轨道",
+        "走另一条路线",
+        "小心观察火车的情况同时穿越铁轨",
+        "停车，直到安全了再继续行驶"
+      ],
+      "correct_answer": "停车，直到安全了再继续行驶",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 269,
+      "question": "下列哪个选项可以让驾驶员看到车辆的侧面?",
+      "choices": [
+        "央视野",
+        "低视野",
+        "最长的视野",
+        "余光"
+      ],
+      "correct_answer": "余光",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 270,
+      "question": "跟在消防车后面的司机必须保持车距为:",
+      "choices": [
+        "300米",
+        "200米",
+        "250米",
+        "150米"
+      ],
+      "correct_answer": "150米",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 271,
+      "question": "作为一个安全而称职的驾驶员，应该采用下列哪一种方案?",
+      "choices": [
+        "观察、思考、行动",
+        "观看、计划、行动",
+        "观察、行动、检查",
+        "查看、计划、行动"
+      ],
+      "correct_answer": "观察、思考、行动",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 272,
+      "question": "下列关于盲点的陈述哪一个是正确的?",
+      "choices": [
+        "较大的车辆有较大的盲点",
+        "即使您的车辆配备了倒车摄像头，也需要向右侧肩部检查",
+        "最危险的盲点在车辆侧面",
+        "上述所有的"
+      ],
+      "correct_answer": "上述所有的",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 273,
+      "question": "在高速公路上驾驶装有空气制动器的车辆，驾驶员必须",
+      "choices": [
+        "持有BC驾驶执照并附有空气制动许可",
+        "有驾驶知识",
+        "了解如何操作空气制动器",
+        "有体检合格证"
+      ],
+      "correct_answer": "持有BC驾驶执照并附有空气制动许可",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 274,
+      "question": "司机在白天驾驶时，可以通过以下方式避免眩光和阴影：",
+      "choices": [
+        "使用太阳镜和遮阳板",
+        "使用远光灯",
+        "使用反光镜",
+        "保持四秒的跟随距离"
+      ],
+      "correct_answer": "使用太阳镜和遮阳板",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 275,
+      "question": "大麻可能对驾驶员造成以下所有影响，除了：",
+      "choices": [
+        "提高了对速度的认识和控制力",
+        "跟随移动车辆有困难",
+        "紧急情况下的延迟反应",
+        "造成驾驶环境的视觉误解"
+      ],
+      "correct_answer": "提高了对速度的认识和控制力",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 276,
+      "question": "您应该在哪里上课来准备7级和5级路考？",
+      "choices": [
+        "从朋友",
+        "从专业的驾驶教练",
+        "从自父母",
+        "以上都不是"
+      ],
+      "correct_answer": "从专业的驾驶教练",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 277,
+      "question": "在7级学员牌照类别中，学员需要通过：",
+      "choices": [
+        "只有知识测验",
+        "口语测试与实践测试",
+        "知识测试，视力测试和医学检查测试",
+        "医疗测试和空气制动器证书测试"
+      ],
+      "correct_answer": "知识测试，视力测试和医学检查测试",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 278,
+      "question": "下列哪个选项是当他们在路上的时候，不容易被看到?",
+      "choices": [
+        "骑自行车的孩子",
+        "机动车驾驶员",
+        "老年人",
+        "18岁的司机"
+      ],
+      "correct_answer": "骑自行车的孩子",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 279,
+      "question": "以下交通标志是什么意思？",
+      "choices": [
+        "只有卡车可以行使",
+        "只能直行",
+        "前方是颠簸路段",
+        "前方有山"
+      ],
+      "correct_answer": "只能直行",
+      "image_path": "images/question_279.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1578467307.svg"
+    },
+    {
+      "id": 280,
+      "question": "驾驶时必须使用前车灯的正确选项是:",
+      "choices": [
+        "从日落后15分钟到日出前15分钟",
+        "从日落后30分钟到日出前一小时",
+        "从日落后30分钟到日出前30分钟",
+        "从日落后一小时到日出前一小时"
+      ],
+      "correct_answer": "从日落后30分钟到日出前30分钟",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 281,
+      "question": "以下标志是什么意思？",
+      "choices": [
+        "前方是弯曲路段； 请慢行",
+        "前方有碎石路段",
+        "前方有施工路段",
+        "前方路段可能会很滑"
+      ],
+      "correct_answer": "前方路段可能会很滑",
+      "image_path": "images/question_281.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1578467352.svg"
+    },
+    {
+      "id": 282,
+      "question": "当驾驶员进入环岛道路时，必须遵循以下哪些规则？",
+      "choices": [
+        "必须右转进入，然后左转离开",
+        "必须右转进入，然后再右转离开",
+        "必须左转进入并左转离开",
+        "必须左转进入，然后右转离开"
+      ],
+      "correct_answer": "必须右转进入，然后再右转离开",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 283,
+      "question": "司机开车时应遵守“十二秒规则”。这条规则要求司机:",
+      "choices": [
+        "在城市道路行驶时要向前看一到两个街区，在高速公路上行驶时向前看半公里",
+        "在城市道路行驶时要向前看四个街区，在高速公路上行驶时向前看一公里",
+        "每十二秒钟检查一下方向盘",
+        "每十二秒钟观察一下道路"
+      ],
+      "correct_answer": "在城市道路行驶时要向前看一到两个街区，在高速公路上行驶时向前看半公里",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 284,
+      "question": "您看到标有HOV标志的道路时，您可以开通勤车辆在这条道路上行驶吗？",
+      "choices": [
+        "是的，随时都可以。",
+        "仅在您至少有一位乘客陪同下",
+        "没有。",
+        "仅当您有至少两名乘客陪同时"
+      ],
+      "correct_answer": "仅在您至少有一位乘客陪同下",
+      "image_path": "images/question_284.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1578467449.svg"
+    },
+    {
+      "id": 285,
+      "question": "如果司机在驾驶时因山势或弯道而看不到前方，这称为:",
+      "choices": [
+        "主要视线被遮挡",
+        "视觉阻断",
+        "路障",
+        "车道阻塞"
+      ],
+      "correct_answer": "视觉阻断",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 286,
+      "question": "在湿滑路面上行驶时，应采取下列哪些措施？",
+      "choices": [
+        "移到车道的右侧",
+        "放慢车速，小心驾驶",
+        "保持最高速度进行快速移动",
+        "换道，避免在光滑的路面上行驶"
+      ],
+      "correct_answer": "放慢车速，小心驾驶",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 287,
+      "question": "大雨会导致以下哪些危险驾驶情况？",
+      "choices": [
+        "缺少对速度和视觉障碍的控制",
+        "车辆外部损坏和前灯故障",
+        "失去牵引力和打滑",
+        "引擎故障，轮胎漏气"
+      ],
+      "correct_answer": "失去牵引力和打滑",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 288,
+      "question": "如果车辆仍在行驶中，点火开关转到锁定位置会怎样？",
+      "choices": [
+        "直到油被用光车辆才能停下来",
+        "车辆自动停止",
+        "方向盘将无法转动，驾驶员可能会失去对车辆的控制",
+        "汽车将加速"
+      ],
+      "correct_answer": "方向盘将无法转动，驾驶员可能会失去对车辆的控制",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 289,
+      "question": "手应该放在方向盘什么位置是最合适的？",
+      "choices": [
+        "方向盘的中心位置",
+        "方向盘的外侧",
+        "方向盘的前面",
+        "方向盘的内侧"
+      ],
+      "correct_answer": "方向盘的外侧",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 290,
+      "question": "以下哪两项是处理紧急驾驶情况的策略?",
+      "choices": [
+        "紧急制动和防滑控制",
+        "车辆平衡和气体控制",
+        "油门控制和安全气囊调节",
+        "转向控制和安全带控制"
+      ],
+      "correct_answer": "紧急制动和防滑控制",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 291,
+      "question": "以下标志代表什么意思？",
+      "choices": [
+        "左边有停靠车辆，请继续直行",
+        "车辆在一定时间间隔内被允许进入",
+        "请小心，因为前方道路是分隔区",
+        "车辆必须左转或继续直行"
+      ],
+      "correct_answer": "车辆必须左转或继续直行",
+      "image_path": "images/question_291.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1578467606.svg"
+    },
+    {
+      "id": 292,
+      "question": "什么是车道追踪？",
+      "choices": [
+        "转弯时保持车辆在正确的车道上",
+        "驾驶车辆与卡车保持安全距离",
+        "经常换车道。",
+        "在单车道高速公路上保持相同速度"
+      ],
+      "correct_answer": "转弯时保持车辆在正确的车道上",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 293,
+      "question": "当另一名司机在驾驶时表现出攻击性时，你不应该:",
+      "choices": [
+        "保持门窗紧闭",
+        "眼神交流，回应对方的挑衅",
+        "去警察局或人多的地方",
+        "使用手机致电警察"
+      ],
+      "correct_answer": "眼神交流，回应对方的挑衅",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 294,
+      "question": "当车辆失火时，应立即采取什么行动?",
+      "choices": [
+        "打开引擎盖，让发动机排气",
+        "从车上移走所有贵重物品",
+        "将您的车辆移至路边",
+        "停下来，先让所有人下车"
+      ],
+      "correct_answer": "停下来，先让所有人下车",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 295,
+      "question": "如果服药后感觉身体不舒服的时候，应该怎么办？",
+      "choices": [
+        "缓慢行驶，以免发生事故",
+        "你不能开车",
+        "您可以开车，但要经常休息",
+        "以上都不要做"
+      ],
+      "correct_answer": "你不能开车",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 296,
+      "question": "以下哪项说明表示前面的校车正准备停车？",
+      "choices": [
+        "按喇叭",
+        "黄灯闪烁",
+        "红灯闪烁",
+        "大灯闪烁"
+      ],
+      "correct_answer": "黄灯闪烁",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 297,
+      "question": "如果排气系统出现泄漏，车内会积聚何种气体?",
+      "choices": [
+        "二氧化碳",
+        "氯",
+        "氦",
+        "一氧化碳"
+      ],
+      "correct_answer": "一氧化碳",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 298,
+      "question": "下列哪项是最易受影响的道路使用者?",
+      "choices": [
+        "大客车司机",
+        "汽车司机",
+        "卡车司机",
+        "骑摩托车的人"
+      ],
+      "correct_answer": "骑摩托车的人",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 299,
+      "question": "如果驾驶员被记17分的扣分，他/她将需要支付多少罚款",
+      "choices": [
+        "$ 1,500",
+        "$ 3,000",
+        "$ 1,000",
+        "$ 3,360"
+      ],
+      "correct_answer": "$ 3,360",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 300,
+      "question": "大多数行驶中的火车需要多长距离才能停下来：",
+      "choices": [
+        "三公里",
+        "两公里",
+        "四公里",
+        "五公里"
+      ],
+      "correct_answer": "两公里",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 301,
+      "question": "当两个道路使用者试图同时进入同一个地方时会发生什么？",
+      "choices": [
+        "较大的汽车拥有先行权",
+        "发生阻塞。",
+        "较小的汽车拥有先行权",
+        "发生冲突"
+      ],
+      "correct_answer": "发生冲突",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 302,
+      "question": "紧跟在另一辆车后面被称为：",
+      "choices": [
+        "后门",
+        "机尾驱动",
+        "尾随",
+        "后驱动"
+      ],
+      "correct_answer": "尾随",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 303,
+      "question": "一条封闭的街道，封闭的一端为圆形，可供车辆转弯：",
+      "choices": [
+        "预留车道区域",
+        "单侧封闭路口",
+        "环岛",
+        "死胡同"
+      ],
+      "correct_answer": "死胡同",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 304,
+      "question": "在有雾的情况下，应该用下列哪一种灯来代替头灯?",
+      "choices": [
+        "雾灯",
+        "闪烁的绿灯",
+        "闪烁的黄灯",
+        "黄灯"
+      ],
+      "correct_answer": "雾灯",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 305,
+      "question": "以下是驾驶执照学习者需要向驾驶服务中心提交申请的材料，除了哪项不需要:",
+      "choices": [
+        "费用",
+        "驾驶员说明手册",
+        "辅助身份证明文件",
+        "主要身份证明文件"
+      ],
+      "correct_answer": "驾驶员说明手册",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 306,
+      "question": "当司机遇到两侧有闪烁黄灯的人行道时，表示：",
+      "choices": [
+        "行人有优先通行权，司机必须停车",
+        "允许更改车道",
+        "不要停止或减速",
+        "交叉路口不允许行人通行"
+      ],
+      "correct_answer": "行人有优先通行权，司机必须停车",
+      "image_path": "images/question_306.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1578468313.svg"
+    },
+    {
+      "id": 307,
+      "question": "正在学习中的驾驶员必须：",
+      "choices": [
+        "车辆中的乘客人数不得超过2人",
+        "开车时酒精含量为零",
+        "拥有25岁或以上且具有有效执照的监督驾驶员在旁指导",
+        "以上所有"
+      ],
+      "correct_answer": "以上所有",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 308,
+      "question": "新生儿必须使用以下哪种安全座椅？",
+      "choices": [
+        "汽车座椅增高垫（booster）",
+        "后向汽车安全座椅",
+        "无需汽车座椅",
+        "正向汽车安全座椅"
+      ],
+      "correct_answer": "后向汽车安全座椅",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 309,
+      "question": "当司机驾驶车辆驶过大卡车时会发生什么？",
+      "choices": [
+        "轮胎打滑",
+        "轮胎加热",
+        "晃动",
+        "信号故障"
+      ],
+      "correct_answer": "晃动",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 310,
+      "question": "以下交通标志是什么意思？",
+      "choices": [
+        "你必须在前方右转",
+        "前方有铁道穿过道路",
+        "前方有桥梁",
+        "前方是火车站"
+      ],
+      "correct_answer": "前方有铁道穿过道路",
+      "image_path": "images/question_310.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1578468438.svg"
+    },
+    {
+      "id": 311,
+      "question": "下列哪一种路况不是恶劣驾驶条件?",
+      "choices": [
+        "铺好的道路突然变成一条碎石路",
+        "暴雨后有大水坑的道路",
+        "普通高速公路",
+        "潮湿或结冰的道路"
+      ],
+      "correct_answer": "普通高速公路",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 312,
+      "question": "跟随大型车辆的最佳距离是多少？",
+      "choices": [
+        "跟随距离六秒钟",
+        "跟随距离两秒钟",
+        "跟随距离五秒钟",
+        "跟随距离三秒钟"
+      ],
+      "correct_answer": "跟随距离三秒钟",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 313,
+      "question": "在什么情况下你必须给行人让路",
+      "choices": [
+        "你正在从小巷或小道进入主要道路",
+        "你正在调头的时候",
+        "行人在人行横道上",
+        "以上所有"
+      ],
+      "correct_answer": "以上所有",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 314,
+      "question": "根据加拿大运输部的规定，需要用______才能将血液里酒精含量（BAC）从0.08降为零。",
+      "choices": [
+        "4个小时",
+        "6个小时",
+        "2小时",
+        "30分钟"
+      ],
+      "correct_answer": "6个小时",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 315,
+      "question": "当你在开车向前扫视时，以下哪个选项是正确的：",
+      "choices": [
+        "在城市道路行驶时需要查看两个街区，在高速公路上行驶时则需要半公里",
+        "在城市道路行驶时需要查看三个街区，在高速公路上行驶时则需要半公里",
+        "在城市道路行驶时需要查看两个街区，在高速公路上行驶时则需要一公里",
+        "在城市道路行驶时需要查看五个街区，在高速公路上行驶时则需要一公里"
+      ],
+      "correct_answer": "在城市道路行驶时需要查看两个街区，在高速公路上行驶时则需要半公里",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 316,
+      "question": "关于轮胎，下列哪个选项是不正确的?",
+      "choices": [
+        "您应该定期旋转汽车轮胎，以使轮胎均匀磨损",
+        "轮胎不需要匹配，只要当你驾驶时感觉它们相似就行",
+        "通过避免突然的起停，可以帮助延长轮胎的使用寿命",
+        "不同品牌的轮胎和车辆都有厂商建议的轮胎压力水平，你应该按照这个标准充气"
+      ],
+      "correct_answer": "轮胎不需要匹配，只要当你驾驶时感觉它们相似就行",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 317,
+      "question": "在什么样的道路情况下，您可以使用定速巡航",
+      "choices": [
+        "下雨时在一条蜿蜒的山路上",
+        "在积雪的道路上",
+        "堵车的道路上",
+        "天气晴朗时，不拥挤的高速公路上"
+      ],
+      "correct_answer": "天气晴朗时，不拥挤的高速公路上",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 318,
+      "question": "此标志是警告前方的道路_______。",
+      "choices": [
+        "道路变窄",
+        "桥梁",
+        "道路结束",
+        "道路分叉"
+      ],
+      "correct_answer": "道路变窄",
+      "image_path": "images/question_318.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1581449510.svg"
+    },
+    {
+      "id": 319,
+      "question": "在GLP课程学习过程中，您需要持有7L级学习者许可证_______。",
+      "choices": [
+        "最少12个月",
+        "最少3个月",
+        "最少24个月",
+        "最少6个月"
+      ],
+      "correct_answer": "最少12个月",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 320,
+      "question": "白色实线表示您可以怎么做？",
+      "choices": [
+        "在安全的情况下话可以换到",
+        "不允许换道",
+        "如果您着急可以换道",
+        "安全的情况下允许通过，并且您要额外小心"
+      ],
+      "correct_answer": "不允许换道",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 321,
+      "question": "当您准备开车去某个地方时，应该留出充裕的时间，因为这样：",
+      "choices": [
+        "更适合您的低速驾驶车辆",
+        "将帮助你避免可能迟到而带来的愤怒和沮丧",
+        "让您有更多时间在开车时拨打电话",
+        "让您有更多时间欣赏风景"
+      ],
+      "correct_answer": "将帮助你避免可能迟到而带来的愤怒和沮丧",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 322,
+      "question": "最危险的盲点是：",
+      "choices": [
+        "在您车辆的前面",
+        "在您车辆的后面",
+        "在您车辆的侧面",
+        "上述所有的"
+      ],
+      "correct_answer": "在您车辆的侧面",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 323,
+      "question": "下弗雷泽河谷中(the Lower Fraser Valley)的空气污染,汽车和轻型卡车造成的污染占多少？",
+      "choices": [
+        "三分之二的空气污染物",
+        "四分之一的空气污染物",
+        "二分之一的空气污染物",
+        "三分之一的空气污染物"
+      ],
+      "correct_answer": "三分之二的空气污染物",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 324,
+      "question": "在接近环形道路时，首先您需要做的是什么？",
+      "choices": [
+        "沿逆时针方向绕着环形道路行驶",
+        "让位于已经在环形道路内行驶的车辆。如果您和另一辆车同时到达，则应该让您右边的辆车先行",
+        "遵守任何交通管制标志，例如“让路”或“停车”标志",
+        "减速慢行"
+      ],
+      "correct_answer": "减速慢行",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 325,
+      "question": "这个标志代表什么意思？",
+      "choices": [
+        "前面有医院",
+        "前方有消防车入口",
+        "前面有火车道口",
+        "前面有一个学区"
+      ],
+      "correct_answer": "前方有消防车入口",
+      "image_path": "images/question_325.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1581489709.svg"
+    },
+    {
+      "id": 326,
+      "question": "以下这个长方形标识里会提示什么信息？",
+      "choices": [
+        "显示驾驶规则",
+        "警告前方有危险",
+        "注意道路状况",
+        "显示道路号码"
+      ],
+      "correct_answer": "显示驾驶规则",
+      "image_path": "images/question_326.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1581489761.svg"
+    },
+    {
+      "id": 327,
+      "question": "如果您的车使用的是标准变速箱，什么时候需要使用一档行驶",
+      "choices": [
+        "拉重物",
+        "将你的速度从10-15公里/小时提高到15-30公里/小时",
+        "开车上山或下山，或拉重物",
+        "上山或下山"
+      ],
+      "correct_answer": "开车上山或下山，或拉重物",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 328,
+      "question": "车辆在直行道路上行驶，在什么情况下有优先通行权：",
+      "choices": [
+        "路口由左转信号灯控制",
+        "有让路标志控制的十字路口",
+        "不受控制的十字路口",
+        "交通信号控制的十字路口"
+      ],
+      "correct_answer": "有让路标志控制的十字路口",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 329,
+      "question": "如果在车道上看到黄色闪烁“X”的警示灯，你应该如何操作？",
+      "choices": [
+        "如果可能的话，离开车道，进入有绿色箭头的车道",
+        "如果可能的话，驶出车道，进入一个上面有红色闪烁的“X”的车道",
+        "加速",
+        "留在车道上，什么都不做"
+      ],
+      "correct_answer": "如果可能的话，离开车道，进入有绿色箭头的车道",
+      "image_path": "images/question_329.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1581490515.svg"
+    },
+    {
+      "id": 330,
+      "question": "为了节省自动档车辆的燃油，达到多少时速时可以使用“超速传动（overdrive）档”",
+      "choices": [
+        "至少20公里/小时",
+        "至少40公里/小时",
+        "至少10公里/小时",
+        "至少30公里/小时"
+      ],
+      "correct_answer": "至少40公里/小时",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 331,
+      "question": "在卑诗省的许多乡间小路上行驶时，请务必小心，因为",
+      "choices": [
+        "不允许任何人行驶",
+        "路上会有正在伐木的，你需要给伐木卡车让路",
+        "这里仅适用于大型卡车，客用车辆禁止在上面行驶",
+        "会有野生动物出没"
+      ],
+      "correct_answer": "路上会有正在伐木的，你需要给伐木卡车让路",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 332,
+      "question": "考取7L类学习者许可证，需要进行测试，以下哪个内容是正确的：",
+      "choices": [
+        "50多个选择题",
+        "5个作文题",
+        "100个是非题",
+        "25个是非题"
+      ],
+      "correct_answer": "50多个选择题",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 333,
+      "question": "驾驶员在冰上停车时，需要的制动距离是常规制动距离的__________。",
+      "choices": [
+        "十倍",
+        "五倍",
+        "两倍",
+        "三倍"
+      ],
+      "correct_answer": "十倍",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 334,
+      "question": "当道路潮湿时，你需要的制动距离__________。",
+      "choices": [
+        "是正常制动距离的三倍",
+        "与正常情况下的制动距离相同",
+        "略大于正常制动距离",
+        "是正常制动距离的两倍"
+      ],
+      "correct_answer": "是正常制动距离的两倍",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 335,
+      "question": "车辆的信号提示是道路安全的重要组成部分， 您应该提前告知其他司机",
+      "choices": [
+        "换车道",
+        "停车",
+        "向左或向右转",
+        "执行以上任何操作"
+      ],
+      "correct_answer": "执行以上任何操作",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 336,
+      "question": "如果您的车速介于__________时，你应该使用三挡。",
+      "choices": [
+        "时速60至80公里/小时",
+        "时速10至20公里/小时",
+        "时速20至30公里/小时",
+        "时速30至60公里/小时"
+      ],
+      "correct_answer": "时速30至60公里/小时",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 337,
+      "question": "下图这样的轮胎是代表什么含义：",
+      "choices": [
+        "正确地充气",
+        "充气不足",
+        "充气过度",
+        "以上都不是"
+      ],
+      "correct_answer": "充气不足",
+      "image_path": "images/question_337.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1581490843.svg"
+    },
+    {
+      "id": 338,
+      "question": "如果看到此标志，则应",
+      "choices": [
+        "向右或向左转",
+        "离开这条路",
+        "准备过桥",
+        "慢下来"
+      ],
+      "correct_answer": "向右或向左转",
+      "image_path": "images/question_338.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1581490875.svg"
+    },
+    {
+      "id": 339,
+      "question": "在双向多条高速公路上行驶时，你应驶入",
+      "choices": [
+        "右侧车道",
+        "左侧车道",
+        "中间车道或右侧车道",
+        "中间车道"
+      ],
+      "correct_answer": "中间车道或右侧车道",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 340,
+      "question": "作为一名驾照学习已毕业的司机，您在以下哪种情况下可以使用免提电子设备：",
+      "choices": [
+        "这是一个非常重要的电话",
+        "有必要打911报告紧急情况",
+        "在早上8点到下午5点之间",
+        "在晚上10点到凌晨5点之间"
+      ],
+      "correct_answer": "有必要打911报告紧急情况",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 341,
+      "question": "三种官方路标是：",
+      "choices": [
+        "施工标志，当地提醒标志和餐厅标志",
+        "施工标志，警告标志和当地提醒标志",
+        "警告标志，学校/学校人行横道标志和当地提醒标志",
+        "警告标志，学校/学校人行横道标志和施工标志"
+      ],
+      "correct_answer": "警告标志，学校/学校人行横道标志和施工标志",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 342,
+      "question": "以下哪项是关于“停车”变速箱描述不正确的：",
+      "choices": [
+        "会在启动车辆时应使用它",
+        "会在停车时应使用它",
+        "它通过锁定变速箱来发挥作用",
+        "这会打开您的白色“反向”灯"
+      ],
+      "correct_answer": "这会打开您的白色“反向”灯",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 343,
+      "question": "为什么骑摩托车的人通常在车道的左侧行驶?",
+      "choices": [
+        "这样可以让骑摩托车的人更容易被看见",
+        "他们不知道怎么开车",
+        "他们获得更多的里程",
+        "以上都不是"
+      ],
+      "correct_answer": "这样可以让骑摩托车的人更容易被看见",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 344,
+      "question": "此标志表示：",
+      "choices": [
+        "前方可能有熊穿过",
+        "前方可能有牛穿过",
+        "前方可能有鹿穿过",
+        "前方可能有麋鹿穿过"
+      ],
+      "correct_answer": "前方可能有牛穿过",
+      "image_path": "images/question_344.jpg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1581491107.jpg"
+    },
+    {
+      "id": 345,
+      "question": "当你驶近一个铁路交叉口，那里有一列火车正在向你驶来，你必须停车:",
+      "choices": [
+        "离最近的铁路至少10米",
+        "离最近的铁路至少3米",
+        "离最近的铁路至少5米",
+        "离最近的铁路至少6米"
+      ],
+      "correct_answer": "离最近的铁路至少5米",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 346,
+      "question": "此标志表示：",
+      "choices": [
+        "前方道路有转弯",
+        "在左手边有一个高速公路匝道出口",
+        "您只能从这条车道左转",
+        "以上都不是"
+      ],
+      "correct_answer": "您只能从这条车道左转",
+      "image_path": "images/question_346.gif",
+      "image_url": "https://driver-test.com/storage/pics/BC/1581491149.gif"
+    },
+    {
+      "id": 347,
+      "question": "以下哪个选项是残疾人停车证允许使用的：",
+      "choices": [
+        "允许任何人驾驶特定汽车随时在指定的停车场停车",
+        "允许您随时在指定的停车场停车",
+        "仅在繁忙时段允许您在指定的停车场停车",
+        "如果许可证持有人是驾驶员或乘客并与您同在，则允许您将车辆停放在指定的停车场"
+      ],
+      "correct_answer": "如果许可证持有人是驾驶员或乘客并与您同在，则允许您将车辆停放在指定的停车场",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 348,
+      "question": "你不可以将车停在______。",
+      "choices": [
+        "人行道上",
+        "铁轨上",
+        "人行横道中间",
+        "上述所有"
+      ],
+      "correct_answer": "上述所有",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 349,
+      "question": "开车时要保持注意力集中，你应该:",
+      "choices": [
+        "如果你需要打电话，请把车停在路边",
+        "预测接下来会发生什么，并做出相应的计划",
+        "用眼睛扫视周围情况",
+        "上述所有"
+      ],
+      "correct_answer": "上述所有",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 350,
+      "question": "如果你的车辆开始打滑，你该怎么办？",
+      "choices": [
+        "加速，直行，不需要踩刹车",
+        "轻轻踩刹车",
+        "减速，直行，不要踩刹车",
+        "踩刹车"
+      ],
+      "correct_answer": "减速，直行，不要踩刹车",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 351,
+      "question": "当您在开车时，使用手机最安全的方法是：",
+      "choices": [
+        "把手机放在伸手可及的地方，这样你就不用把眼睛从路上移开了",
+        "将手机扬声器打开，放在腿上保持平衡",
+        "接电话之前先查看一下电话号码",
+        "使用免提设备，以便将双手放在方向盘上"
+      ],
+      "correct_answer": "使用免提设备，以便将双手放在方向盘上",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 352,
+      "question": "该标志的含义是：",
+      "choices": [
+        "慢速行驶的车辆必须靠右行驶",
+        "右边有一个隐藏的入口",
+        "您可以直行或右转",
+        "您只能从这条车道右转"
+      ],
+      "correct_answer": "您可以直行或右转",
+      "image_path": "images/question_352.jpg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1581491585.jpg"
+    },
+    {
+      "id": 353,
+      "question": "G1驾驶员的血液酒精含量必须保持在0％，并且坐在前座的同伴，其血液酒精含量需低于：",
+      "choices": [
+        "0％",
+        "0.02％",
+        "0.05％",
+        "0.08％"
+      ],
+      "correct_answer": "0.05％",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 354,
+      "question": "此标志代表什么含义：",
+      "choices": [
+        "限速降至每小时30公里",
+        "前面路上有个急转弯",
+        "前面路上有个小弯",
+        "A和B"
+      ],
+      "correct_answer": "前面路上有个急转弯",
+      "image_path": "images/question_354.jpg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1581491627.jpg"
+    },
+    {
+      "id": 355,
+      "question": "与行人和其他驾驶员进行眼神交流很重要，因为：",
+      "choices": [
+        "这样可以有助于传达您的驾驶意图",
+        "这是结识新朋友的好方法",
+        "不这样做是违法的",
+        "通常会让人们后退，让你先走"
+      ],
+      "correct_answer": "这样可以有助于传达您的驾驶意图",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 356,
+      "question": "紧急情况下，有闪光灯和警报器的车辆什么情况下有先行权：",
+      "choices": [
+        "在十字路口",
+        "在单行道上",
+        "在你这侧的道路上",
+        "在任何情况下"
+      ],
+      "correct_answer": "在任何情况下",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 357,
+      "question": "一辆车想要U型转，此时该车司机需要嘹望前方每个方向多远才能确保安全？",
+      "choices": [
+        "50米",
+        "100米",
+        "150米",
+        "你能看到多远并不重要。只要没有非法的掉头标志，你就可以尝试"
+      ],
+      "correct_answer": "150米",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 358,
+      "question": "术语“overdriving the headlights”是什么意思？",
+      "choices": [
+        "车速过快，以至于停车距离超出车灯所能照亮的范围",
+        "你开车太慢了",
+        "您需要关闭远光灯",
+        "您的远光灯一直开着"
+      ],
+      "correct_answer": "车速过快，以至于停车距离超出车灯所能照亮的范围",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 359,
+      "question": "第一次“酒后驾车”被定罪，您可能被禁止驾驶1-3 ____。",
+      "choices": [
+        "天",
+        "年",
+        "月",
+        "周"
+      ],
+      "correct_answer": "年",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 360,
+      "question": "该符号表示______在前面结束。",
+      "choices": [
+        "人行道",
+        "路肩",
+        "路面",
+        "高速公路"
+      ],
+      "correct_answer": "路面",
+      "image_path": "images/question_360.svg",
+      "image_url": "https://driver-test.com/storage/pics/BC/1581491828.svg"
+    },
+    {
+      "id": 361,
+      "question": "当您搬家后，必须多长时间内更新驾照上的地址：",
+      "choices": [
+        "在您搬家后的1个月内",
+        "在您搬家后的3个月内",
+        "在您搬家的10天内",
+        "在您搬家10周之内"
+      ],
+      "correct_answer": "在您搬家的10天内",
+      "image_path": null,
+      "image_url": null
+    },
+    {
+      "id": 362,
+      "question": "根据ICBC的统计数据，发生在十字路口的交通事故占BC省交通事故的比例是______。",
+      "choices": [
+        "20％",
+        "30％",
+        "60％",
+        "50％"
+      ],
+      "correct_answer": "60％",
+      "image_path": null,
+      "image_url": null
+    }
+  ],
+  "total_questions": 362,
+  "scraped_at": "2025-02-05 14:30:48"
+}
