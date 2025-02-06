@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -81,7 +80,9 @@
       .navigation {
         display: flex;
         justify-content: space-between;
+        align-items: center;
         margin-top: 20px;
+        gap: 10px;
       }
 
       .nav-btn {
@@ -97,6 +98,29 @@
       .nav-btn:disabled {
         background: #ccc;
         cursor: not-allowed;
+      }
+
+      .goto-container {
+        display: flex;
+        gap: 5px;
+        align-items: center;
+      }
+
+      #goto-input {
+        width: 60px;
+        padding: 8px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        text-align: center;
+      }
+
+      #goto-btn {
+        padding: 8px 12px;
+        background: #2196F3;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
       }
 
       .question-number {
@@ -127,13 +151,16 @@
 
   <body>
     <div id="quiz-container">
-      <div class="question-number">Question <span id="current-number">1</span> of <span id="total-questions">0</span>
-      </div>
+      <div class="question-number">Question <span id="current-number">1</span> of <span id="total-questions">0</span></div>
       <div class="question-text" id="question-text"></div>
       <img id="question-image" class="question-image" style="display: none;" />
       <div class="choices-container" id="choices-container"></div>
       <div class="navigation">
         <button id="prev-btn" class="nav-btn">← Previous</button>
+        <div class="goto-container">
+          <input type="number" id="goto-input" min="1" placeholder="Go to">
+          <button id="goto-btn">Go</button>
+        </div>
         <button id="next-btn" class="nav-btn">Next →</button>
       </div>
       <button id="screenshot-btn" class="screenshot-btn">Save Screenshot (S)</button>
@@ -144,6 +171,7 @@
       let questions = [];
       let currentQuestionIndex = 0;
       let hasAnswered = false;
+      const STORAGE_KEY = 'lastQuestionIndex';
 
       // Load questions from JSON file
       async function loadQuestions() {
@@ -152,6 +180,16 @@
           const data = await response.json();
           questions = data.questions;
           document.getElementById('total-questions').textContent = questions.length;
+          
+          // Set max value for goto input
+          document.getElementById('goto-input').max = questions.length;
+          
+          // Restore last position or show first question
+          const savedIndex = localStorage.getItem(STORAGE_KEY);
+          if (savedIndex !== null && parseInt(savedIndex) < questions.length) {
+            currentQuestionIndex = parseInt(savedIndex);
+          }
+          
           showQuestion(currentQuestionIndex);
         } catch (error) {
           console.error('Error loading questions:', error);
@@ -161,6 +199,9 @@
       function showQuestion(index) {
         const question = questions[index];
         if (!question) return;
+
+        // Save current position to localStorage
+        localStorage.setItem(STORAGE_KEY, index);
 
         // Reset state
         hasAnswered = false;
@@ -217,6 +258,19 @@
         }
       }
 
+      function goToQuestion() {
+        const input = document.getElementById('goto-input');
+        const questionNumber = parseInt(input.value);
+        
+        if (questionNumber && questionNumber >= 1 && questionNumber <= questions.length) {
+          currentQuestionIndex = questionNumber - 1;
+          showQuestion(currentQuestionIndex);
+          input.value = ''; // Clear input after navigation
+        } else {
+          alert('Please enter a valid question number');
+        }
+      }
+
       function saveScreenshot() {
         html2canvas(document.getElementById('quiz-container')).then(canvas => {
           const link = document.createElement('a');
@@ -229,7 +283,15 @@
       // Event Listeners
       document.getElementById('prev-btn').onclick = () => navigateQuestion(-1);
       document.getElementById('next-btn').onclick = () => navigateQuestion(1);
+      document.getElementById('goto-btn').onclick = goToQuestion;
       document.getElementById('screenshot-btn').onclick = saveScreenshot;
+
+      // Add enter key support for goto input
+      document.getElementById('goto-input').addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+          goToQuestion();
+        }
+      });
 
       // Keyboard navigation
       document.addEventListener('keydown', (e) => {
